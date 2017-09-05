@@ -1,0 +1,2204 @@
+user_type,code,type,name,parent_id,note,reconcile,active
+Liquidity,11050501,liquidity,"caja general",110505,,FALSE,TRUE
+Liquidity,11051001,liquidity,"cajas menores",110510,,FALSE,TRUE
+Liquidity,11051501,liquidity,"moneda extranjera",110515,,FALSE,TRUE
+Regular,11100501,regular,"moneda nacional",111005,,FALSE,TRUE
+Regular,11101001,regular,"moneda extranjera",111010,,FALSE,TRUE
+Regular,11150501,regular,"moneda nacional",111505,,FALSE,TRUE
+Regular,11151001,regular,"moneda extranjera",111510,,FALSE,TRUE
+Liquidity,11200501,liquidity,bancos,112005,,FALSE,TRUE
+Liquidity,11201001,liquidity,"corporaciones de ahorro y vivienda",112010,,FALSE,TRUE
+Liquidity,11201501,liquidity,"organismos cooperativos financieros",112015,,FALSE,TRUE
+Regular,11250501,regular,"rotatorios moneda nacional",112505,,FALSE,TRUE
+Regular,11251001,regular,"rotatorios moneda extranjera",112510,,FALSE,TRUE
+Regular,11251501,regular,"especiales moneda nacional",112515,,FALSE,TRUE
+Regular,11252001,regular,"especiales moneda extranjera",112520,,FALSE,TRUE
+Regular,11252501,regular,"de amortización moneda nacional",112525,,FALSE,TRUE
+Regular,11253001,regular,"de amortización moneda extranjera",112530,,FALSE,TRUE
+Regular,12050501,regular,"agricultura, ganadería, caza y silvicultura",120505,,FALSE,TRUE
+Regular,12051001,regular,pesca,120510,,FALSE,TRUE
+Regular,12051501,regular,"explotación de minas y canteras",120515,,FALSE,TRUE
+Regular,12052001,regular,"industria manufacturera",120520,,FALSE,TRUE
+Regular,12052501,regular,"suministro de electricidad, gas y agua",120525,,FALSE,TRUE
+Regular,12053001,regular,construcción,120530,,FALSE,TRUE
+Regular,12053501,regular,"comercio al por mayor y al por menor",120535,,FALSE,TRUE
+Regular,12054001,regular,"hoteles y restaurantes",120540,,FALSE,TRUE
+Regular,12054501,regular,"transporte, almacenamiento y comunicaciones",120545,,FALSE,TRUE
+Regular,12055001,regular,"actividad financiera",120550,,FALSE,TRUE
+Regular,12055501,regular,"actividades inmobiliarias, empresariales y de alquiler",120555,,FALSE,TRUE
+Regular,12056001,regular,enseñanza,120560,,FALSE,TRUE
+Regular,12056501,regular,"servicios sociales y de salud",120565,,FALSE,TRUE
+Regular,12057001,regular,"otras actividades de servicios comunitarios, sociales y personales",120570,,FALSE,TRUE
+Regular,12059901,regular,"ajustes por inflación",120599,,FALSE,TRUE
+Regular,12100501,regular,"agricultura, ganadería, caza y silvicultura",121005,,FALSE,TRUE
+Regular,12101001,regular,pesca,121010,,FALSE,TRUE
+Regular,12101501,regular,"explotación de minas y canteras",121015,,FALSE,TRUE
+Regular,12102001,regular,"industria manufacturera",121020,,FALSE,TRUE
+Regular,12102501,regular,"suministro de electricidad, gas y agua",121025,,FALSE,TRUE
+Regular,12103001,regular,construcción,121030,,FALSE,TRUE
+Regular,12103501,regular,"comercio al por mayor y al por menor",121035,,FALSE,TRUE
+Regular,12104001,regular,"hoteles y restaurantes",121040,,FALSE,TRUE
+Regular,12104501,regular,"transporte, almacenamiento y comunicaciones",121045,,FALSE,TRUE
+Regular,12105001,regular,"actividad financiera",121050,,FALSE,TRUE
+Regular,12105501,regular,"actividades inmobiliarias, empresariales y de alquiler",121055,,FALSE,TRUE
+Regular,12106001,regular,enseñanza,121060,,FALSE,TRUE
+Regular,12106501,regular,"servicios sociales y de salud",121065,,FALSE,TRUE
+Regular,12107001,regular,"otras actividades de servicios comunitarios, sociales y personales",121070,,FALSE,TRUE
+Regular,12109901,regular,"ajustes por inflación",121099,,FALSE,TRUE
+Regular,12150501,regular,"bonos públicos moneda nacional",121505,,FALSE,TRUE
+Regular,12151001,regular,"bonos públicos moneda extranjera",121510,,FALSE,TRUE
+Regular,12151501,regular,"bonos ordinarios",121515,,FALSE,TRUE
+Regular,12152001,regular,"bonos convertibles en acciones",121520,,FALSE,TRUE
+Regular,12159501,regular,otros,121595,,FALSE,TRUE
+Regular,12200501,regular,"cédulas de capitalización",122005,,FALSE,TRUE
+Regular,12201001,regular,"cédulas hipotecarias",122010,,FALSE,TRUE
+Regular,12201501,regular,"cédulas de inversión",122015,,FALSE,TRUE
+Regular,12209501,regular,otras,122095,,FALSE,TRUE
+Regular,12250501,regular,"certificados de depósito a término (cdt)",122505,,FALSE,TRUE
+Regular,12251001,regular,"certificados de depósito de ahorro",122510,,FALSE,TRUE
+Regular,12251501,regular,"certificados de ahorro de valor constante (cavc)",122515,,FALSE,TRUE
+Regular,12252001,regular,"certificados de cambio",122520,,FALSE,TRUE
+Regular,12252501,regular,"certificados cafeteros valorizables",122525,,FALSE,TRUE
+Regular,12253001,regular,"certificados eléctricos valorizables (cev)",122530,,FALSE,TRUE
+Regular,12253501,regular,"certificados de reembolso tributario (cert)",122535,,FALSE,TRUE
+Regular,12254001,regular,"certificados de desarrollo turístico",122540,,FALSE,TRUE
+Regular,12254501,regular,"certificados de inversión forestal (cif)",122545,,FALSE,TRUE
+Regular,12259501,regular,otros,122595,,FALSE,TRUE
+Regular,12300501,regular,"empresas comerciales",123005,,FALSE,TRUE
+Regular,12301001,regular,"empresas industriales",123010,,FALSE,TRUE
+Regular,12301501,regular,"empresas de servicios",123015,,FALSE,TRUE
+Regular,12350501,regular,"títulos de desarrollo agropecuario",123505,,FALSE,TRUE
+Regular,12351001,regular,"títulos canjeables por certificados de cambio",123510,,FALSE,TRUE
+Regular,12351501,regular,"títulos de tesorería (tes)",123515,,FALSE,TRUE
+Regular,12352001,regular,"títulos de participación",123520,,FALSE,TRUE
+Regular,12352501,regular,"títulos de crédito de fomento",123525,,FALSE,TRUE
+Regular,12353001,regular,"títulos financieros agroindustriales (tfa)",123530,,FALSE,TRUE
+Regular,12353501,regular,"títulos de ahorro cafetero (tac)",123535,,FALSE,TRUE
+Regular,12354001,regular,"títulos de ahorro nacional (tan)",123540,,FALSE,TRUE
+Regular,12354501,regular,"títulos energéticos de rentabilidad creciente (ter)",123545,,FALSE,TRUE
+Regular,12355001,regular,"títulos de ahorro educativo (tae)",123550,,FALSE,TRUE
+Regular,12355501,regular,"títulos financieros industriales y comerciales",123555,,FALSE,TRUE
+Regular,12356001,regular,tesoros,123560,,FALSE,TRUE
+Regular,12356501,regular,"títulos de devolución de impuestos nacionales (tidis)",123565,,FALSE,TRUE
+Regular,12357001,regular,"títulos inmobiliarios",123570,,FALSE,TRUE
+Regular,12359501,regular,otros,123595,,FALSE,TRUE
+Regular,12400501,regular,"bancos comerciales",124005,,FALSE,TRUE
+Regular,12401001,regular,"compañías de financiamiento comercial",124010,,FALSE,TRUE
+Regular,12401501,regular,"corporaciones financieras",124015,,FALSE,TRUE
+Regular,12409501,regular,otras,124095,,FALSE,TRUE
+Regular,12450501,regular,"fideicomisos de inversión moneda nacional",124505,,FALSE,TRUE
+Regular,12451001,regular,"fideicomisos de inversión moneda extranjera",124510,,FALSE,TRUE
+Regular,12500501,regular,acciones,125005,,FALSE,TRUE
+Regular,12501001,regular,"cuotas o partes de interés social",125010,,FALSE,TRUE
+Regular,12501501,regular,bonos,125015,,FALSE,TRUE
+Regular,12502001,regular,cédulas,125020,,FALSE,TRUE
+Regular,12502501,regular,certificados,125025,,FALSE,TRUE
+Regular,12503001,regular,"papeles comerciales",125030,,FALSE,TRUE
+Regular,12503501,regular,títulos,125035,,FALSE,TRUE
+Regular,12504001,regular,"aceptaciones bancarias o financieras",125040,,FALSE,TRUE
+Regular,12509501,regular,otros,125095,,FALSE,TRUE
+Regular,12509901,regular,"ajustes por inflación",125099,,FALSE,TRUE
+Regular,12550501,regular,"bonos de financiamiento especial",125505,,FALSE,TRUE
+Regular,12551001,regular,"bonos de financiamiento presupuestal",125510,,FALSE,TRUE
+Regular,12551501,regular,"bonos para desarrollo social y seguridad interna (bdsi)",125515,,FALSE,TRUE
+Regular,12559501,regular,otras,125595,,FALSE,TRUE
+Regular,12609901,regular,"ajustes por inflación",126099,,FALSE,TRUE
+Regular,12950501,regular,"aportes en cooperativas",129505,,FALSE,TRUE
+Regular,12951001,regular,"derechos en clubes sociales",129510,,FALSE,TRUE
+Regular,12951501,regular,"acciones o derechos en clubes deportivos",129515,,FALSE,TRUE
+Regular,12952001,regular,"bonos en colegios",129520,,FALSE,TRUE
+Regular,12959501,regular,diversas,129595,,FALSE,TRUE
+Regular,12959901,regular,"ajustes por inflación",129599,,FALSE,TRUE
+Regular,12990501,regular,acciones,129905,,FALSE,TRUE
+Regular,12991001,regular,"cuotas o partes de interés social",129910,,FALSE,TRUE
+Regular,12991501,regular,bonos,129915,,FALSE,TRUE
+Regular,12992001,regular,cédulas,129920,,FALSE,TRUE
+Regular,12992501,regular,certificados,129925,,FALSE,TRUE
+Regular,12993001,regular,"papeles comerciales",129930,,FALSE,TRUE
+Regular,12993501,regular,títulos,129935,,FALSE,TRUE
+Regular,12994001,regular,"aceptaciones bancarias o financieras",129940,,FALSE,TRUE
+Regular,12994501,regular,"derechos fiduciarios",129945,,FALSE,TRUE
+Regular,12995001,regular,"derechos de recompra de inversiones negociadas",129950,,FALSE,TRUE
+Regular,12995501,regular,obligatorias,129955,,FALSE,TRUE
+Regular,12996001,regular,"cuentas en participación",129960,,FALSE,TRUE
+Regular,12999501,regular,"otras inversiones",129995,,FALSE,TRUE
+Receivable,13050501,receivable,nacionales,130505,,TRUE,TRUE
+Receivable,13051001,receivable,"del exterior",130510,,TRUE,TRUE
+Receivable,13051501,receivable,"deudores del sistema",130515,,TRUE,TRUE
+Regular,13100501,regular,"casa matriz",131005,,FALSE,TRUE
+Regular,13101001,regular,"compañías vinculadas",131010,,FALSE,TRUE
+Regular,13101501,regular,"accionistas o socios",131015,,FALSE,TRUE
+Regular,13102001,regular,particulares,131020,,FALSE,TRUE
+Regular,13109501,regular,otras,131095,,FALSE,TRUE
+Regular,13150501,regular,ventas,131505,,FALSE,TRUE
+Regular,13151001,regular,"pagos a nombre de casa matriz",131510,,FALSE,TRUE
+Regular,13151501,regular,"valores recibidos por casa matriz",131515,,FALSE,TRUE
+Regular,13152001,regular,préstamos,131520,,FALSE,TRUE
+Regular,13200501,regular,filiales,132005,,FALSE,TRUE
+Regular,13201001,regular,subsidiarias,132010,,FALSE,TRUE
+Regular,13201501,regular,sucursales,132015,,FALSE,TRUE
+Regular,13230001,regular,"cuentas por cobrar a directores",1323,,FALSE,TRUE
+Regular,13250501,regular,"a socios",132505,,FALSE,TRUE
+Regular,13251001,regular,"a accionistas",132510,,FALSE,TRUE
+Regular,13280001,regular,"aportes por cobrar",1328,,FALSE,TRUE
+Regular,13300501,regular,"a proveedores",133005,,FALSE,TRUE
+Regular,13301001,regular,"a contratistas",133010,,FALSE,TRUE
+Regular,13301501,regular,"a trabajadores",133015,,FALSE,TRUE
+Regular,13302001,regular,"a agentes",133020,,FALSE,TRUE
+Regular,13302501,regular,"a concesionarios",133025,,FALSE,TRUE
+Regular,13303001,regular,"de adjudicaciones",133030,,FALSE,TRUE
+Regular,13309501,regular,otros,133095,,FALSE,TRUE
+Regular,13309901,regular,"ajustes por inflación",133099,,FALSE,TRUE
+Regular,13320001,regular,"cuentas de operación conjunta",1332,,FALSE,TRUE
+Regular,13350501,regular,"para importaciones",133505,,FALSE,TRUE
+Regular,13351001,regular,"para servicios",133510,,FALSE,TRUE
+Regular,13351501,regular,"para contratos",133515,,FALSE,TRUE
+Regular,13352001,regular,"para responsabilidades",133520,,FALSE,TRUE
+Regular,13352501,regular,"para juicios ejecutivos",133525,,FALSE,TRUE
+Regular,13353001,regular,"para adquisición de acciones, cuotas o derechos sociales",133530,,FALSE,TRUE
+Regular,13353501,regular,"en garantía",133535,,FALSE,TRUE
+Regular,13359501,regular,otros,133595,,FALSE,TRUE
+Regular,13400501,regular,"de bienes raíces",134005,,FALSE,TRUE
+Regular,13401001,regular,"de maquinaria y equipo",134010,,FALSE,TRUE
+Regular,13401501,regular,"de flota y equipo de transporte",134015,,FALSE,TRUE
+Regular,13402001,regular,"de flota y equipo aéreo",134020,,FALSE,TRUE
+Regular,13402501,regular,"de flota y equipo férreo",134025,,FALSE,TRUE
+Regular,13403001,regular,"de flota y equipo fluvial y/o marítimo",134030,,FALSE,TRUE
+Regular,13403501,regular,"de semovientes",134035,,FALSE,TRUE
+Regular,13409501,regular,"de otros bienes",134095,,FALSE,TRUE
+Regular,13450501,regular,"dividendos y/o participaciones",134505,,FALSE,TRUE
+Regular,13451001,regular,intereses,134510,,FALSE,TRUE
+Regular,13451501,regular,comisiones,134515,,FALSE,TRUE
+Regular,13452001,regular,honorarios,134520,,FALSE,TRUE
+Regular,13452501,regular,servicios,134525,,FALSE,TRUE
+Regular,13453001,regular,arrendamientos,134530,,FALSE,TRUE
+Regular,13453501,regular,"cert por cobrar",134535,,FALSE,TRUE
+Regular,13459501,regular,otros,134595,,FALSE,TRUE
+Regular,13500501,regular,"de construcción",135005,,FALSE,TRUE
+Regular,13501001,regular,"de prestación de servicios",135010,,FALSE,TRUE
+Regular,13509501,regular,otros,135095,,FALSE,TRUE
+Regular,13550501,regular,"anticipo de impuestos de renta y complementarios",135505,,FALSE,TRUE
+Regular,13551001,regular,"anticipo de impuestos de industria y comercio",135510,,FALSE,TRUE
+Regular,13551501,regular,"retención en la fuente",135515,,FALSE,TRUE
+Regular,13551701,regular,"impuesto a las ventas retenido",135517,,FALSE,TRUE
+Regular,13551801,regular,"impuesto de industria y comercio retenido",135518,,FALSE,TRUE
+Regular,13552001,regular,"sobrantes en liquidación privada de impuestos",135520,,FALSE,TRUE
+Regular,13552501,regular,contribuciones,135525,,FALSE,TRUE
+Regular,13553001,regular,"impuestos descontables",135530,,FALSE,TRUE
+Regular,13559501,regular,otros,135595,,FALSE,TRUE
+Regular,13600501,regular,"a compañías aseguradoras",136005,,FALSE,TRUE
+Regular,13601001,regular,"a transportadores",136010,,FALSE,TRUE
+Regular,13601501,regular,"por tiquetes aéreos",136015,,FALSE,TRUE
+Regular,13609501,regular,otras,136095,,FALSE,TRUE
+Regular,13650501,regular,vivienda,136505,,FALSE,TRUE
+Regular,13651001,regular,vehículos,136510,,FALSE,TRUE
+Regular,13651501,regular,educación,136515,,FALSE,TRUE
+Regular,13652001,regular,"médicos, odontológicos y similares",136520,,FALSE,TRUE
+Regular,13652501,regular,"calamidad doméstica",136525,,FALSE,TRUE
+Regular,13653001,regular,responsabilidades,136530,,FALSE,TRUE
+Regular,13659501,regular,otros,136595,,FALSE,TRUE
+Regular,13700501,regular,"con garantía real",137005,,FALSE,TRUE
+Regular,13701001,regular,"con garantía personal",137010,,FALSE,TRUE
+Regular,13800501,regular,depositarios,138005,,FALSE,TRUE
+Regular,13801001,regular,"comisionistas de bolsas",138010,,FALSE,TRUE
+Regular,13801501,regular,"fondo de inversión",138015,,FALSE,TRUE
+Regular,13802001,regular,"cuentas por cobrar de terceros",138020,,FALSE,TRUE
+Regular,13802501,regular,"pagos por cuenta de terceros",138025,,FALSE,TRUE
+Regular,13803001,regular,"fondos de inversión social",138030,,FALSE,TRUE
+Regular,13809501,regular,otros,138095,,FALSE,TRUE
+Regular,13850001,regular,"derechos de recompra de cartera negociada",1385,,FALSE,TRUE
+Regular,13900001,regular,"deudas de difícil cobro",1390,,FALSE,TRUE
+Regular,13990501,regular,clientes,139905,,FALSE,TRUE
+Regular,13991001,regular,"cuentas corrientes comerciales",139910,,FALSE,TRUE
+Regular,13991501,regular,"cuentas por cobrar a casa matriz",139915,,FALSE,TRUE
+Regular,13992001,regular,"cuentas por cobrar a vinculados económicos",139920,,FALSE,TRUE
+Regular,13992501,regular,"cuentas por cobrar a socios y accionistas",139925,,FALSE,TRUE
+Regular,13993001,regular,"anticipos y avances",139930,,FALSE,TRUE
+Regular,13993201,regular,"cuentas de operación conjunta",139932,,FALSE,TRUE
+Regular,13993501,regular,depósitos,139935,,FALSE,TRUE
+Regular,13994001,regular,"promesas de compraventa",139940,,FALSE,TRUE
+Regular,13994501,regular,"ingresos por cobrar",139945,,FALSE,TRUE
+Regular,13995001,regular,"retención sobre contratos",139950,,FALSE,TRUE
+Regular,13995501,regular,reclamaciones,139955,,FALSE,TRUE
+Regular,13996001,regular,"cuentas por cobrar a trabajadores",139960,,FALSE,TRUE
+Regular,13996501,regular,"préstamos a particulares",139965,,FALSE,TRUE
+Regular,13997501,regular,"deudores varios",139975,,FALSE,TRUE
+Regular,13998001,regular,"derechos de recompra de cartera negociada",139980,,FALSE,TRUE
+Regular,14059901,regular,"ajustes por inflación",140599,,FALSE,TRUE
+Regular,14109901,regular,"ajustes por inflación",141099,,FALSE,TRUE
+Regular,14159901,regular,"ajustes por inflación",141599,,FALSE,TRUE
+Regular,14179901,regular,"ajustes por inflación",141799,,FALSE,TRUE
+Regular,14209901,regular,"ajustes por inflación",142099,,FALSE,TRUE
+Regular,14259901,regular,"ajustes por inflación",142599,,FALSE,TRUE
+Regular,14289901,regular,"ajustes por inflación",142899,,FALSE,TRUE
+Regular,14300501,regular,"productos manufacturados",143005,,FALSE,TRUE
+Regular,14301001,regular,"productos extraídos y/o procesados",143010,,FALSE,TRUE
+Regular,14301501,regular,"productos agrícolas y forestales",143015,,FALSE,TRUE
+Regular,14302001,regular,subproductos,143020,,FALSE,TRUE
+Regular,14302501,regular,"productos de pesca",143025,,FALSE,TRUE
+Regular,14309901,regular,"ajustes por inflación",143099,,FALSE,TRUE
+Regular,14359901,regular,"ajustes por inflación",143599,,FALSE,TRUE
+Regular,14409901,regular,"ajustes por inflación",144099,,FALSE,TRUE
+Regular,14459901,regular,"ajustes por inflación",144599,,FALSE,TRUE
+Regular,14500501,regular,"por urbanizar",145005,,FALSE,TRUE
+Regular,14501001,regular,"urbanizados por construir",145010,,FALSE,TRUE
+Regular,14509901,regular,"ajustes por inflación",145099,,FALSE,TRUE
+Regular,14559901,regular,"ajustes por inflación",145599,,FALSE,TRUE
+Regular,14609901,regular,"ajustes por inflación",146099,,FALSE,TRUE
+Regular,14659901,regular,"ajustes por inflación",146599,,FALSE,TRUE
+Regular,14990501,regular,"para obsolescencia",149905,,FALSE,TRUE
+Regular,14991001,regular,"para diferencia de inventario físico",149910,,FALSE,TRUE
+Regular,14991501,regular,"para pérdidas de inventarios",149915,,FALSE,TRUE
+Regular,14992001,regular,lifo,149920,,FALSE,TRUE
+Regular,15040501,regular,urbanos,150405,,FALSE,TRUE
+Regular,15041001,regular,rurales,150410,,FALSE,TRUE
+Regular,15049901,regular,"ajustes por inflación",150499,,FALSE,TRUE
+Regular,15060501,regular,"tuberías y equipo",150605,,FALSE,TRUE
+Regular,15061001,regular,"costos de importación materiales",150610,,FALSE,TRUE
+Regular,15061501,regular,"proyectos de construcción",150615,,FALSE,TRUE
+Regular,15069901,regular,"ajustes por inflación",150699,,FALSE,TRUE
+Regular,15080501,regular,"construcciones y edificaciones",150805,,FALSE,TRUE
+Regular,15081001,regular,"acueductos, plantas y redes",150810,,FALSE,TRUE
+Regular,15081501,regular,"vías de comunicación",150815,,FALSE,TRUE
+Regular,15082001,regular,"pozos artesianos",150820,,FALSE,TRUE
+Regular,15082501,regular,"proyectos de exploración",150825,,FALSE,TRUE
+Regular,15083001,regular,"proyectos de desarrollo",150830,,FALSE,TRUE
+Regular,15089901,regular,"ajustes por inflación",150899,,FALSE,TRUE
+Regular,15120501,regular,"maquinaria y equipo",151205,,FALSE,TRUE
+Regular,15121001,regular,"equipo de oficina",151210,,FALSE,TRUE
+Regular,15121501,regular,"equipo de computación y comunicación",151215,,FALSE,TRUE
+Regular,15122001,regular,"equipo médico-científico",151220,,FALSE,TRUE
+Regular,15122501,regular,"equipo de hoteles y restaurantes",151225,,FALSE,TRUE
+Regular,15123001,regular,"flota y equipo de transporte",151230,,FALSE,TRUE
+Regular,15123501,regular,"flota y equipo fluvial y/o marítimo",151235,,FALSE,TRUE
+Regular,15124001,regular,"flota y equipo aéreo",151240,,FALSE,TRUE
+Regular,15124501,regular,"flota y equipo férreo",151245,,FALSE,TRUE
+Regular,15125001,regular,"plantas y redes",151250,,FALSE,TRUE
+Regular,15129901,regular,"ajustes por inflación",151299,,FALSE,TRUE
+Regular,15160501,regular,edificios,151605,,FALSE,TRUE
+Regular,15161001,regular,oficinas,151610,,FALSE,TRUE
+Regular,15161501,regular,almacenes,151615,,FALSE,TRUE
+Regular,15162001,regular,"fábricas y plantas industriales",151620,,FALSE,TRUE
+Regular,15162501,regular,"salas de exhibición y ventas",151625,,FALSE,TRUE
+Regular,15163001,regular,"cafetería y casinos",151630,,FALSE,TRUE
+Regular,15163501,regular,silos,151635,,FALSE,TRUE
+Regular,15164001,regular,invernaderos,151640,,FALSE,TRUE
+Regular,15164501,regular,"casetas y campamentos",151645,,FALSE,TRUE
+Regular,15165001,regular,"instalaciones agropecuarias",151650,,FALSE,TRUE
+Regular,15165501,regular,"viviendas para empleados y obreros",151655,,FALSE,TRUE
+Regular,15166001,regular,"terminal de buses y taxis",151660,,FALSE,TRUE
+Regular,15166301,regular,"terminal marítimo",151663,,FALSE,TRUE
+Regular,15166501,regular,"terminal férreo",151665,,FALSE,TRUE
+Regular,15167001,regular,"parqueaderos, garajes y depósitos",151670,,FALSE,TRUE
+Regular,15167501,regular,hangares,151675,,FALSE,TRUE
+Regular,15168001,regular,bodegas,151680,,FALSE,TRUE
+Regular,15169501,regular,otros,151695,,FALSE,TRUE
+Regular,15169901,regular,"ajustes por inflación",151699,,FALSE,TRUE
+Regular,15209901,regular,"ajustes por inflación",152099,,FALSE,TRUE
+Regular,15240501,regular,"muebles y enseres",152405,,FALSE,TRUE
+Regular,15241001,regular,equipos,152410,,FALSE,TRUE
+Regular,15249501,regular,otros,152495,,FALSE,TRUE
+Regular,15249901,regular,"ajustes por inflación",152499,,FALSE,TRUE
+Regular,15280501,regular,"equipos de procesamiento de datos",152805,,FALSE,TRUE
+Regular,15281001,regular,"equipos de telecomunicaciones",152810,,FALSE,TRUE
+Regular,15281501,regular,"equipos de radio",152815,,FALSE,TRUE
+Regular,15282001,regular,"satélites y antenas",152820,,FALSE,TRUE
+Regular,15282501,regular,"líneas telefónicas",152825,,FALSE,TRUE
+Regular,15289501,regular,otros,152895,,FALSE,TRUE
+Regular,15289901,regular,"ajustes por inflación",152899,,FALSE,TRUE
+Regular,15320501,regular,médico,153205,,FALSE,TRUE
+Regular,15321001,regular,odontológico,153210,,FALSE,TRUE
+Regular,15321501,regular,laboratorio,153215,,FALSE,TRUE
+Regular,15322001,regular,instrumental,153220,,FALSE,TRUE
+Regular,15329501,regular,otros,153295,,FALSE,TRUE
+Regular,15329901,regular,"ajustes por inflación",153299,,FALSE,TRUE
+Regular,15360501,regular,"de habitaciones",153605,,FALSE,TRUE
+Regular,15361001,regular,"de comestibles y bebidas",153610,,FALSE,TRUE
+Regular,15369501,regular,otros,153695,,FALSE,TRUE
+Regular,15369901,regular,"ajustes por inflación",153699,,FALSE,TRUE
+Regular,15400501,regular,"autos, camionetas y camperos",154005,,FALSE,TRUE
+Regular,15400801,regular,"camiones, volquetas y furgones",154008,,FALSE,TRUE
+Regular,15401001,regular,"tractomulas y remolques",154010,,FALSE,TRUE
+Regular,15401501,regular,"buses y busetas",154015,,FALSE,TRUE
+Regular,15401701,regular,"recolectores y contenedores",154017,,FALSE,TRUE
+Regular,15402001,regular,montacargas,154020,,FALSE,TRUE
+Regular,15402501,regular,"palas y grúas",154025,,FALSE,TRUE
+Regular,15403001,regular,motocicletas,154030,,FALSE,TRUE
+Regular,15403501,regular,bicicletas,154035,,FALSE,TRUE
+Regular,15404001,regular,"estibas y carretas",154040,,FALSE,TRUE
+Regular,15404501,regular,"bandas transportadoras",154045,,FALSE,TRUE
+Regular,15409501,regular,otros,154095,,FALSE,TRUE
+Regular,15409901,regular,"ajustes por inflación",154099,,FALSE,TRUE
+Regular,15440501,regular,buques,154405,,FALSE,TRUE
+Regular,15441001,regular,lanchas,154410,,FALSE,TRUE
+Regular,15441501,regular,remolcadoras,154415,,FALSE,TRUE
+Regular,15442001,regular,botes,154420,,FALSE,TRUE
+Regular,15442501,regular,boyas,154425,,FALSE,TRUE
+Regular,15443001,regular,amarres,154430,,FALSE,TRUE
+Regular,15443501,regular,"contenedores y chasises",154435,,FALSE,TRUE
+Regular,15444001,regular,gabarras,154440,,FALSE,TRUE
+Regular,15449501,regular,otros,154495,,FALSE,TRUE
+Regular,15449901,regular,"ajustes por inflación",154499,,FALSE,TRUE
+Regular,15480501,regular,aviones,154805,,FALSE,TRUE
+Regular,15481001,regular,avionetas,154810,,FALSE,TRUE
+Regular,15481501,regular,helicópteros,154815,,FALSE,TRUE
+Regular,15482001,regular,"turbinas y motores",154820,,FALSE,TRUE
+Regular,15482501,regular,"manuales de entrenamiento personal técnico",154825,,FALSE,TRUE
+Regular,15483001,regular,"equipos de vuelo",154830,,FALSE,TRUE
+Regular,15489501,regular,otros,154895,,FALSE,TRUE
+Regular,15489901,regular,"ajustes por inflación",154899,,FALSE,TRUE
+Regular,15520501,regular,locomotoras,155205,,FALSE,TRUE
+Regular,15521001,regular,vagones,155210,,FALSE,TRUE
+Regular,15521501,regular,"redes férreas",155215,,FALSE,TRUE
+Regular,15529501,regular,otros,155295,,FALSE,TRUE
+Regular,15529901,regular,"ajustes por inflación",155299,,FALSE,TRUE
+Regular,15560501,regular,"instalaciones para agua y energía",155605,,FALSE,TRUE
+Regular,15561001,regular,"acueducto, acequias y canalizaciones",155610,,FALSE,TRUE
+Regular,15561501,regular,"plantas de generación hidráulica",155615,,FALSE,TRUE
+Regular,15562001,regular,"plantas de generación térmica",155620,,FALSE,TRUE
+Regular,15562501,regular,"plantas de generación a gas",155625,,FALSE,TRUE
+Regular,15562801,regular,"plantas de generación diesel, gasolina y petróleo",155628,,FALSE,TRUE
+Regular,15563001,regular,"plantas de distribución",155630,,FALSE,TRUE
+Regular,15563501,regular,"plantas de transmisión y subestaciones",155635,,FALSE,TRUE
+Regular,15564001,regular,oleoductos,155640,,FALSE,TRUE
+Regular,15564501,regular,gasoductos,155645,,FALSE,TRUE
+Regular,15564701,regular,poliductos,155647,,FALSE,TRUE
+Regular,15565001,regular,"redes de distribución",155650,,FALSE,TRUE
+Regular,15565501,regular,"plantas de tratamiento",155655,,FALSE,TRUE
+Regular,15566001,regular,"redes de recolección de aguas negras",155660,,FALSE,TRUE
+Regular,15566501,regular,"instalaciones y equipo de bombeo",155665,,FALSE,TRUE
+Regular,15567001,regular,"redes de distribución de vapor",155670,,FALSE,TRUE
+Regular,15567501,regular,"redes de aire",155675,,FALSE,TRUE
+Regular,15568001,regular,"redes alimentación de gas",155680,,FALSE,TRUE
+Regular,15568201,regular,"redes externas de telefonía",155682,,FALSE,TRUE
+Regular,15568501,regular,"plantas deshidratadoras",155685,,FALSE,TRUE
+Regular,15569501,regular,otros,155695,,FALSE,TRUE
+Regular,15569901,regular,"ajustes por inflación",155699,,FALSE,TRUE
+Regular,15609901,regular,"ajustes por inflación",156099,,FALSE,TRUE
+Regular,15629901,regular,"ajustes por inflación",156299,,FALSE,TRUE
+Regular,15640501,regular,"cultivos en desarrollo",156405,,FALSE,TRUE
+Regular,15641001,regular,"cultivos amortizables",156410,,FALSE,TRUE
+Regular,15649901,regular,"ajustes por inflación",156499,,FALSE,TRUE
+Regular,15680501,regular,"pavimentación y patios",156805,,FALSE,TRUE
+Regular,15681001,regular,vías,156810,,FALSE,TRUE
+Regular,15681501,regular,puentes,156815,,FALSE,TRUE
+Regular,15682001,regular,calles,156820,,FALSE,TRUE
+Regular,15682501,regular,aeródromos,156825,,FALSE,TRUE
+Regular,15689501,regular,otros,156895,,FALSE,TRUE
+Regular,15689901,regular,"ajustes por inflación",156899,,FALSE,TRUE
+Regular,15720501,regular,minas,157205,,FALSE,TRUE
+Regular,15721001,regular,canteras,157210,,FALSE,TRUE
+Regular,15729901,regular,"ajustes por inflación",157299,,FALSE,TRUE
+Regular,15769901,regular,"ajustes por inflación",157699,,FALSE,TRUE
+Regular,15809901,regular,"ajustes por inflación",158099,,FALSE,TRUE
+Regular,15849901,regular,"ajustes por inflación",158499,,FALSE,TRUE
+Regular,15880501,regular,"maquinaria y equipo",158805,,FALSE,TRUE
+Regular,15881001,regular,"equipo de oficina",158810,,FALSE,TRUE
+Regular,15881501,regular,"equipo de computación y comunicación",158815,,FALSE,TRUE
+Regular,15882001,regular,"equipo médico-científico",158820,,FALSE,TRUE
+Regular,15882501,regular,"equipo de hoteles y restaurantes",158825,,FALSE,TRUE
+Regular,15883001,regular,"flota y equipo de transporte",158830,,FALSE,TRUE
+Regular,15883501,regular,"flota y equipo fluvial y/o marítimo",158835,,FALSE,TRUE
+Regular,15884001,regular,"flota y equipo aéreo",158840,,FALSE,TRUE
+Regular,15884501,regular,"flota y equipo férreo",158845,,FALSE,TRUE
+Regular,15885001,regular,"plantas y redes",158850,,FALSE,TRUE
+Regular,15885501,regular,"armamento de vigilancia",158855,,FALSE,TRUE
+Regular,15886001,regular,semovientes,158860,,FALSE,TRUE
+Regular,15886501,regular,"envases y empaques",158865,,FALSE,TRUE
+Regular,15889901,regular,"ajustes por inflación",158899,,FALSE,TRUE
+Regular,15920501,regular,"construcciones y edificaciones",159205,,FALSE,TRUE
+Regular,15921001,regular,"maquinaria y equipo",159210,,FALSE,TRUE
+Regular,15921501,regular,"equipo de oficina",159215,,FALSE,TRUE
+Regular,15922001,regular,"equipo de computación y comunicación",159220,,FALSE,TRUE
+Regular,15922501,regular,"equipo médico-científico",159225,,FALSE,TRUE
+Regular,15923001,regular,"equipo de hoteles y restaurantes",159230,,FALSE,TRUE
+Regular,15923501,regular,"flota y equipo de transporte",159235,,FALSE,TRUE
+Regular,15924001,regular,"flota y equipo fluvial y/o marítimo",159240,,FALSE,TRUE
+Regular,15924501,regular,"flota y equipo aéreo",159245,,FALSE,TRUE
+Regular,15925001,regular,"flota y equipo férreo",159250,,FALSE,TRUE
+Regular,15925501,regular,"acueductos, plantas y redes",159255,,FALSE,TRUE
+Regular,15926001,regular,"armamento de vigilancia",159260,,FALSE,TRUE
+Regular,15926501,regular,"envases y empaques",159265,,FALSE,TRUE
+Regular,15929901,regular,"ajustes por inflación",159299,,FALSE,TRUE
+Regular,15960501,regular,"exceso fiscal sobre la contable",159605,,FALSE,TRUE
+Regular,15961001,regular,"defecto fiscal sobre la contable (cr)",159610,,FALSE,TRUE
+Regular,15969901,regular,"ajustes por inflación",159699,,FALSE,TRUE
+Regular,15970501,regular,"plantaciones agrícolas y forestales",159705,,FALSE,TRUE
+Regular,15971001,regular,"vías de comunicación",159710,,FALSE,TRUE
+Regular,15971501,regular,semovientes,159715,,FALSE,TRUE
+Regular,15979901,regular,"ajustes por inflación",159799,,FALSE,TRUE
+Regular,15980501,regular,"minas y canteras",159805,,FALSE,TRUE
+Regular,15981501,regular,"pozos artesianos",159815,,FALSE,TRUE
+Regular,15982001,regular,yacimientos,159820,,FALSE,TRUE
+Regular,15989901,regular,"ajustes por inflación",159899,,FALSE,TRUE
+Regular,15990401,regular,terrenos,159904,,FALSE,TRUE
+Regular,15990601,regular,"materiales proyectos petroleros",159906,,FALSE,TRUE
+Regular,15990801,regular,"construcciones en curso",159908,,FALSE,TRUE
+Regular,15991201,regular,"maquinaria en montaje",159912,,FALSE,TRUE
+Regular,15991601,regular,"construcciones y edificaciones",159916,,FALSE,TRUE
+Regular,15992001,regular,"maquinaria y equipo",159920,,FALSE,TRUE
+Regular,15992401,regular,"equipo de oficina",159924,,FALSE,TRUE
+Regular,15992801,regular,"equipo de computación y comunicación",159928,,FALSE,TRUE
+Regular,15993201,regular,"equipo médico-científico",159932,,FALSE,TRUE
+Regular,15993601,regular,"equipo de hoteles y restaurantes",159936,,FALSE,TRUE
+Regular,15994001,regular,"flota y equipo de transporte",159940,,FALSE,TRUE
+Regular,15994401,regular,"flota y equipo fluvial y/o marítimo",159944,,FALSE,TRUE
+Regular,15994801,regular,"flota y equipo aéreo",159948,,FALSE,TRUE
+Regular,15995201,regular,"flota y equipo férreo",159952,,FALSE,TRUE
+Regular,15995601,regular,"acueductos, plantas y redes",159956,,FALSE,TRUE
+Regular,15996001,regular,"armamento de vigilancia",159960,,FALSE,TRUE
+Regular,15996201,regular,"envases y empaques",159962,,FALSE,TRUE
+Regular,15996401,regular,"plantaciones agrícolas y forestales",159964,,FALSE,TRUE
+Regular,15996801,regular,"vías de comunicación",159968,,FALSE,TRUE
+Regular,15997201,regular,"minas y canteras",159972,,FALSE,TRUE
+Regular,15998001,regular,"pozos artesianos",159980,,FALSE,TRUE
+Regular,15998401,regular,yacimientos,159984,,FALSE,TRUE
+Regular,15998801,regular,semovientes,159988,,FALSE,TRUE
+Regular,15999201,regular,"propiedades, planta y equipo en tránsito",159992,,FALSE,TRUE
+Regular,16050501,regular,"formado o estimado",160505,,FALSE,TRUE
+Regular,16051001,regular,"adquirido o comprado",160510,,FALSE,TRUE
+Regular,16059901,regular,"ajustes por inflación",160599,,FALSE,TRUE
+Regular,16100501,regular,adquiridas,161005,,FALSE,TRUE
+Regular,16101001,regular,formadas,161010,,FALSE,TRUE
+Regular,16109901,regular,"ajustes por inflación",161099,,FALSE,TRUE
+Regular,16150501,regular,adquiridas,161505,,FALSE,TRUE
+Regular,16151001,regular,formadas,161510,,FALSE,TRUE
+Regular,16159901,regular,"ajustes por inflación",161599,,FALSE,TRUE
+Regular,16200501,regular,concesiones,162005,,FALSE,TRUE
+Regular,16201001,regular,franquicias,162010,,FALSE,TRUE
+Regular,16209901,regular,"ajustes por inflación",162099,,FALSE,TRUE
+Regular,16250501,regular,"derechos de autor",162505,,FALSE,TRUE
+Regular,16251001,regular,"puesto de bolsa",162510,,FALSE,TRUE
+Regular,16251501,regular,"en fideicomisos inmobiliarios",162515,,FALSE,TRUE
+Regular,16252001,regular,"en fideicomisos de garantía",162520,,FALSE,TRUE
+Regular,16252501,regular,"en fideicomisos de administración",162525,,FALSE,TRUE
+Regular,16253001,regular,"de exhibición - películas",162530,,FALSE,TRUE
+Regular,16253501,regular,"en bienes recibidos en arrendamiento financiero (leasing)",162535,,FALSE,TRUE
+Regular,16259501,regular,otros,162595,,FALSE,TRUE
+Regular,16259901,regular,"ajustes por inflación",162599,,FALSE,TRUE
+Regular,16309901,regular,"ajustes por inflación",163099,,FALSE,TRUE
+Regular,16359901,regular,"ajustes por inflación",163599,,FALSE,TRUE
+Regular,16980501,regular,"crédito mercantil",169805,,FALSE,TRUE
+Regular,16981001,regular,marcas,169810,,FALSE,TRUE
+Regular,16981501,regular,patentes,169815,,FALSE,TRUE
+Regular,16982001,regular,"concesiones y franquicias",169820,,FALSE,TRUE
+Regular,16983001,regular,derechos,169830,,FALSE,TRUE
+Regular,16983501,regular,"know how",169835,,FALSE,TRUE
+Regular,16984001,regular,licencias,169840,,FALSE,TRUE
+Regular,16989901,regular,"ajustes por inflación",169899,,FALSE,TRUE
+Regular,16990001,regular,provisiones,1699,,FALSE,TRUE
+Regular,17050501,regular,intereses,170505,,FALSE,TRUE
+Regular,17051001,regular,honorarios,170510,,FALSE,TRUE
+Regular,17051501,regular,comisiones,170515,,FALSE,TRUE
+Regular,17052001,regular,"seguros y fianzas",170520,,FALSE,TRUE
+Regular,17052501,regular,arrendamientos,170525,,FALSE,TRUE
+Regular,17053001,regular,bodegajes,170530,,FALSE,TRUE
+Regular,17053501,regular,"mantenimiento equipos",170535,,FALSE,TRUE
+Regular,17054001,regular,servicios,170540,,FALSE,TRUE
+Regular,17054501,regular,suscripciones,170545,,FALSE,TRUE
+Regular,17059501,regular,otros,170595,,FALSE,TRUE
+Regular,17100401,regular,"organización y preoperativos",171004,,FALSE,TRUE
+Regular,17100801,regular,remodelaciones,171008,,FALSE,TRUE
+Regular,17101201,regular,"estudios, investigaciones y proyectos",171012,,FALSE,TRUE
+Regular,17101601,regular,"programas para computador (software)",171016,,FALSE,TRUE
+Regular,17102001,regular,"útiles y papelería",171020,,FALSE,TRUE
+Regular,17102401,regular,"mejoras a propiedades ajenas",171024,,FALSE,TRUE
+Regular,17102801,regular,"contribuciones y afiliaciones",171028,,FALSE,TRUE
+Regular,17103201,regular,"entrenamiento de personal",171032,,FALSE,TRUE
+Regular,17103601,regular,"ferias y exposiciones",171036,,FALSE,TRUE
+Regular,17104001,regular,licencias,171040,,FALSE,TRUE
+Regular,17104401,regular,"publicidad, propaganda y promoción",171044,,FALSE,TRUE
+Regular,17104801,regular,"elementos de aseo y cafetería",171048,,FALSE,TRUE
+Regular,17105201,regular,"moldes y troqueles",171052,,FALSE,TRUE
+Regular,17105601,regular,"instrumental quirúrgico",171056,,FALSE,TRUE
+Regular,17106001,regular,"dotación y suministro a trabajadores",171060,,FALSE,TRUE
+Regular,17106401,regular,"elementos de ropería y lencería",171064,,FALSE,TRUE
+Regular,17106801,regular,"loza y cristalería",171068,,FALSE,TRUE
+Regular,17106901,regular,platería,171069,,FALSE,TRUE
+Regular,17107001,regular,cubiertería,171070,,FALSE,TRUE
+Regular,17107601,regular,"impuesto de renta diferido ?débitos? por diferencias temporales",171076,,FALSE,TRUE
+Regular,17108001,regular,"concursos y licitaciones",171080,,FALSE,TRUE
+Regular,17109501,regular,otros,171095,,FALSE,TRUE
+Regular,17109901,regular,"ajustes por inflación",171099,,FALSE,TRUE
+Regular,17150501,regular,"pozos secos",171505,,FALSE,TRUE
+Regular,17151001,regular,"pozos no comerciales",171510,,FALSE,TRUE
+Regular,17151501,regular,"otros costos de exploración",171515,,FALSE,TRUE
+Regular,17159901,regular,"ajustes por inflación",171599,,FALSE,TRUE
+Regular,17200501,regular,"perforación y explotación",172005,,FALSE,TRUE
+Regular,17201001,regular,"perforaciones campos en desarrollo",172010,,FALSE,TRUE
+Regular,17201501,regular,"facilidades de producción",172015,,FALSE,TRUE
+Regular,17202001,regular,"servicio a pozos",172020,,FALSE,TRUE
+Regular,17209901,regular,"ajustes por inflación",172099,,FALSE,TRUE
+Regular,17300001,regular,"cargos por corrección monetaria diferida",1730,,FALSE,TRUE
+Regular,17980501,regular,"costos de exploración por amortizar",179805,,FALSE,TRUE
+Regular,17981001,regular,"costos de explotación y desarrollo",179810,,FALSE,TRUE
+Regular,17989901,regular,"ajustes por inflación",179899,,FALSE,TRUE
+Regular,18050501,regular,"obras de arte",180505,,FALSE,TRUE
+Regular,18051001,regular,bibliotecas,180510,,FALSE,TRUE
+Regular,18059501,regular,otros,180595,,FALSE,TRUE
+Regular,18059901,regular,"ajustes por inflación",180599,,FALSE,TRUE
+Regular,18950501,regular,"máquinas porteadoras",189505,,FALSE,TRUE
+Regular,18951001,regular,"bienes entregados en comodato",189510,,FALSE,TRUE
+Regular,18951501,regular,"amortización acumulada de bienes entregados en comodato (cr)",189515,,FALSE,TRUE
+Regular,18952001,regular,"bienes recibidos en pago",189520,,FALSE,TRUE
+Regular,18952501,regular,"derechos sucesorales",189525,,FALSE,TRUE
+Regular,18953001,regular,estampillas,189530,,FALSE,TRUE
+Regular,18959501,regular,otros,189595,,FALSE,TRUE
+Regular,18959901,regular,"ajustes por inflación",189599,,FALSE,TRUE
+Regular,18990501,regular,"bienes de arte y cultura",189905,,FALSE,TRUE
+Regular,18999501,regular,diversos,189995,,FALSE,TRUE
+Regular,19050501,regular,acciones,190505,,FALSE,TRUE
+Regular,19051001,regular,"cuotas o partes de interés social",190510,,FALSE,TRUE
+Regular,19051501,regular,"derechos fiduciarios",190515,,FALSE,TRUE
+Regular,19100401,regular,terrenos,191004,,FALSE,TRUE
+Regular,19100601,regular,"materiales proyectos petroleros",191006,,FALSE,TRUE
+Regular,19100801,regular,"construcciones y edificaciones",191008,,FALSE,TRUE
+Regular,19101201,regular,"maquinaria y equipo",191012,,FALSE,TRUE
+Regular,19101601,regular,"equipo de oficina",191016,,FALSE,TRUE
+Regular,19102001,regular,"equipo de computación y comunicación",191020,,FALSE,TRUE
+Regular,19102401,regular,"equipo médico-científico",191024,,FALSE,TRUE
+Regular,19102801,regular,"equipo de hoteles y restaurantes",191028,,FALSE,TRUE
+Regular,19103201,regular,"flota y equipo de transporte",191032,,FALSE,TRUE
+Regular,19103601,regular,"flota y equipo fluvial y/o marítimo",191036,,FALSE,TRUE
+Regular,19104001,regular,"flota y equipo aéreo",191040,,FALSE,TRUE
+Regular,19104401,regular,"flota y equipo férreo",191044,,FALSE,TRUE
+Regular,19104801,regular,"acueductos, plantas y redes",191048,,FALSE,TRUE
+Regular,19105201,regular,"armamento de vigilancia",191052,,FALSE,TRUE
+Regular,19105601,regular,"envases y empaques",191056,,FALSE,TRUE
+Regular,19106001,regular,"plantaciones agrícolas y forestales",191060,,FALSE,TRUE
+Regular,19106401,regular,"vías de comunicación",191064,,FALSE,TRUE
+Regular,19106801,regular,"minas y canteras",191068,,FALSE,TRUE
+Regular,19107201,regular,"pozos artesianos",191072,,FALSE,TRUE
+Regular,19107601,regular,yacimientos,191076,,FALSE,TRUE
+Regular,19108001,regular,semovientes,191080,,FALSE,TRUE
+Regular,19950501,regular,"bienes de arte y cultura",199505,,FALSE,TRUE
+Regular,19951001,regular,"bienes entregados en comodato",199510,,FALSE,TRUE
+Regular,19951501,regular,"bienes recibidos en pago",199515,,FALSE,TRUE
+Regular,19952001,regular,"inventario de semovientes",199520,,FALSE,TRUE
+Regular,21050501,regular,sobregiros,210505,,FALSE,TRUE
+Regular,21051001,regular,pagarés,210510,,FALSE,TRUE
+Regular,21051501,regular,"cartas de crédito",210515,,FALSE,TRUE
+Regular,21052001,regular,"aceptaciones bancarias",210520,,FALSE,TRUE
+Regular,21100501,regular,sobregiros,211005,,FALSE,TRUE
+Regular,21101001,regular,pagarés,211010,,FALSE,TRUE
+Regular,21101501,regular,"cartas de crédito",211015,,FALSE,TRUE
+Regular,21102001,regular,"aceptaciones bancarias",211020,,FALSE,TRUE
+Regular,21150501,regular,pagarés,211505,,FALSE,TRUE
+Regular,21151001,regular,"aceptaciones financieras",211510,,FALSE,TRUE
+Regular,21151501,regular,"cartas de crédito",211515,,FALSE,TRUE
+Regular,21152001,regular,"contratos de arrendamiento financiero (leasing)",211520,,FALSE,TRUE
+Regular,21200501,regular,pagarés,212005,,FALSE,TRUE
+Regular,21201001,regular,"aceptaciones financieras",212010,,FALSE,TRUE
+Regular,21202001,regular,"contratos de arrendamiento financiero (leasing)",212020,,FALSE,TRUE
+Regular,21250501,regular,sobregiros,212505,,FALSE,TRUE
+Regular,21251001,regular,pagarés,212510,,FALSE,TRUE
+Regular,21251501,regular,hipotecarias,212515,,FALSE,TRUE
+Regular,21300001,regular,"entidades financieras del exterior",2130,,FALSE,TRUE
+Regular,21350501,regular,acciones,213505,,FALSE,TRUE
+Regular,21351001,regular,"cuotas o partes de interés social",213510,,FALSE,TRUE
+Regular,21351501,regular,bonos,213515,,FALSE,TRUE
+Regular,21352001,regular,cédulas,213520,,FALSE,TRUE
+Regular,21352501,regular,certificados,213525,,FALSE,TRUE
+Regular,21353001,regular,"papeles comerciales",213530,,FALSE,TRUE
+Regular,21353501,regular,títulos,213535,,FALSE,TRUE
+Regular,21354001,regular,"aceptaciones bancarias o financieras",213540,,FALSE,TRUE
+Regular,21359501,regular,otros,213595,,FALSE,TRUE
+Regular,21400001,regular,"compromisos de recompra de cartera negociada",2140,,FALSE,TRUE
+Regular,21450501,regular,"gobierno nacional",214505,,FALSE,TRUE
+Regular,21451001,regular,"entidades oficiales",214510,,FALSE,TRUE
+Regular,21950501,regular,particulares,219505,,FALSE,TRUE
+Regular,21951001,regular,"compañías vinculadas",219510,,FALSE,TRUE
+Regular,21951501,regular,"casa matriz",219515,,FALSE,TRUE
+Regular,21952001,regular,"socios o accionistas",219520,,FALSE,TRUE
+Regular,21952501,regular,"fondos y cooperativas",219525,,FALSE,TRUE
+Regular,21953001,regular,directores,219530,,FALSE,TRUE
+Regular,21959501,regular,otras,219595,,FALSE,TRUE
+Payable,22050001,payable,nacionales,2205,,TRUE,TRUE
+Payable,22100001,payable,"del exterior",2210,,TRUE,TRUE
+Payable,22150001,payable,"cuentas corrientes comerciales",2215,,TRUE,TRUE
+Payable,22200001,payable,"casa matriz",2220,,TRUE,TRUE
+Payable,22250001,payable,"compañías vinculadas",2225,,TRUE,TRUE
+Regular,23050001,regular,"cuentas corrientes comerciales",2305,,FALSE,TRUE
+Regular,23100001,regular,"a casa matriz",2310,,FALSE,TRUE
+Regular,23150001,regular,"a compañías vinculadas",2315,,FALSE,TRUE
+Regular,23200001,regular,"a contratistas",2320,,FALSE,TRUE
+Regular,23300001,regular,"órdenes de compra por utilizar",2330,,FALSE,TRUE
+Regular,23350501,regular,"gastos financieros",233505,,FALSE,TRUE
+Regular,23351001,regular,"gastos legales",233510,,FALSE,TRUE
+Regular,23351501,regular,"libros, suscripciones, periódicos y revistas",233515,,FALSE,TRUE
+Regular,23352001,regular,comisiones,233520,,FALSE,TRUE
+Regular,23352501,regular,honorarios,233525,,FALSE,TRUE
+Regular,23353001,regular,"servicios técnicos",233530,,FALSE,TRUE
+Regular,23353501,regular,"servicios de mantenimiento",233535,,FALSE,TRUE
+Regular,23354001,regular,arrendamientos,233540,,FALSE,TRUE
+Regular,23354501,regular,"transportes, fletes y acarreos",233545,,FALSE,TRUE
+Regular,23355001,regular,"servicios públicos",233550,,FALSE,TRUE
+Regular,23355501,regular,seguros,233555,,FALSE,TRUE
+Regular,23356001,regular,"gastos de viaje",233560,,FALSE,TRUE
+Regular,23356501,regular,"gastos de representación y relaciones públicas",233565,,FALSE,TRUE
+Regular,23357001,regular,"servicios aduaneros",233570,,FALSE,TRUE
+Regular,23359501,regular,otros,233595,,FALSE,TRUE
+Regular,23400001,regular,"instalamentos por pagar",2340,,FALSE,TRUE
+Regular,23450001,regular,"acreedores oficiales",2345,,FALSE,TRUE
+Regular,23500001,regular,"regalías por pagar",2350,,FALSE,TRUE
+Regular,23550501,regular,accionistas,235505,,FALSE,TRUE
+Regular,23551001,regular,socios,235510,,FALSE,TRUE
+Regular,23570001,regular,"deudas con directores",2357,,FALSE,TRUE
+Regular,23600501,regular,dividendos,236005,,FALSE,TRUE
+Regular,23601001,regular,participaciones,236010,,FALSE,TRUE
+Regular,23650501,regular,"salarios y pagos laborales",236505,,FALSE,TRUE
+Regular,23651001,regular,"dividendos y/o participaciones",236510,,FALSE,TRUE
+Regular,23651501,regular,honorarios,236515,,FALSE,TRUE
+Regular,23652001,regular,comisiones,236520,,FALSE,TRUE
+Regular,23652501,regular,servicios,236525,,FALSE,TRUE
+Regular,23653001,regular,arrendamientos,236530,,FALSE,TRUE
+Regular,23653501,regular,"rendimientos financieros",236535,,FALSE,TRUE
+Regular,23654001,regular,compras,236540,,FALSE,TRUE
+Regular,23654501,regular,"loterías, rifas, apuestas y similares",236545,,FALSE,TRUE
+Regular,23655001,regular,"por pagos al exterior",236550,,FALSE,TRUE
+Regular,23655501,regular,"por ingresos obtenidos en el exterior",236555,,FALSE,TRUE
+Regular,23656001,regular,"enajenación propiedades planta y equipo, personas naturales",236560,,FALSE,TRUE
+Regular,23656501,regular,"por impuesto de timbre",236565,,FALSE,TRUE
+Regular,23657001,regular,"otras retenciones y patrimonio",236570,,FALSE,TRUE
+Regular,23657501,regular,autorretenciones,236575,,FALSE,TRUE
+Regular,23670001,regular,"impuesto a las ventas retenido",2367,,FALSE,TRUE
+Regular,23680001,regular,"impuesto de industria y comercio retenido",2368,,FALSE,TRUE
+Regular,23700501,regular,"aportes a entidades promotoras de salud, eps",237005,,FALSE,TRUE
+Regular,23700601,regular,"aportes a administradoras de riesgos profesionales, arp",237006,,FALSE,TRUE
+Regular,23701001,regular,"aportes al icbf, sena y cajas de compensación",237010,,FALSE,TRUE
+Regular,23701501,regular,"aportes al fic",237015,,FALSE,TRUE
+Regular,23702501,regular,"embargos judiciales",237025,,FALSE,TRUE
+Regular,23703001,regular,libranzas,237030,,FALSE,TRUE
+Regular,23703501,regular,sindicatos,237035,,FALSE,TRUE
+Regular,23704001,regular,cooperativas,237040,,FALSE,TRUE
+Regular,23704501,regular,fondos,237045,,FALSE,TRUE
+Regular,23709501,regular,otros,237095,,FALSE,TRUE
+Regular,23750001,regular,"cuotas por devolver",2375,,FALSE,TRUE
+Regular,23800501,regular,depositarios,238005,,FALSE,TRUE
+Regular,23801001,regular,"comisionistas de bolsas",238010,,FALSE,TRUE
+Regular,23801501,regular,"sociedad administradora-fondos de inversión",238015,,FALSE,TRUE
+Regular,23802001,regular,"reintegros por pagar",238020,,FALSE,TRUE
+Regular,23802501,regular,"fondo de perseverancia",238025,,FALSE,TRUE
+Regular,23803001,regular,"fondos de cesantías y/o pensiones",238030,,FALSE,TRUE
+Regular,23803501,regular,"donaciones asignadas por pagar",238035,,FALSE,TRUE
+Regular,23809501,regular,otros,238095,,FALSE,TRUE
+Regular,24040501,regular,"vigencia fiscal corriente",240405,,FALSE,TRUE
+Regular,24041001,regular,"vigencias fiscales anteriores",240410,,FALSE,TRUE
+View,240801,view,"impuesto generado por operaciones gravadas",2408,,FALSE,TRUE
+Regular,24080101,regular,"impuesto generado a la tarifa del 1.6%",240801,,FALSE,TRUE
+Regular,24080102,regular,"impuesto generado por la venta de cerveza de producción nacional o importada",240801,,FALSE,TRUE
+Regular,24080103,regular,"impuesto generado por la venta de juegos de suerte y azar",240801,,FALSE,TRUE
+Regular,24080104,regular,"impuesto generado a la tarifa del 10%",240801,,FALSE,TRUE
+Regular,24080105,regular,"impuesto generado a la tarifa del 16%",240801,,FALSE,TRUE
+Regular,24080106,regular,"impuesto generado a la tarifa del 20%",240801,,FALSE,TRUE
+Regular,24080107,regular,"impuesto generado a la tarifa del 25%",240801,,FALSE,TRUE
+Regular,24080108,regular,"impuesto generado a la tarifa del 35%",240801,,FALSE,TRUE
+Regular,24080109,regular,"iva recuperado en devoluciones en compras anuladas, rescindidas o resueltas",240801,,FALSE,TRUE
+View,240802,view,"impuestos descontables",2408,,FALSE,TRUE
+Regular,24080201,regular,"impuesto descontable por operaciones de importación",240802,,FALSE,TRUE
+Regular,24080202,regular,"impuesto descontable por comprar y servicios gravados (diferentes de importaciones)",240802,,FALSE,TRUE
+Regular,24080203,regular,"iva retenido en operaciones con regimen simplificado",240802,,FALSE,TRUE
+Regular,24080204,regular,"iva resultante por devoluciones en ventas anuladas, rescindidas o resueltas",240802,,FALSE,TRUE
+Regular,24120501,regular,"vigencia fiscal corriente",241205,,FALSE,TRUE
+Regular,24121001,regular,"vigencias fiscales anteriores",241210,,FALSE,TRUE
+Regular,24160001,regular,"a la propiedad raíz",2416,,FALSE,TRUE
+Regular,24200001,regular,"derechos sobre instrumentos públicos",2420,,FALSE,TRUE
+Regular,24240501,regular,"vigencia fiscal corriente",242405,,FALSE,TRUE
+Regular,24241001,regular,"vigencias fiscales anteriores",242410,,FALSE,TRUE
+Regular,24280001,regular,"de turismo",2428,,FALSE,TRUE
+Regular,24320001,regular,"tasa por utilización de puertos",2432,,FALSE,TRUE
+Regular,24360501,regular,"vigencia fiscal corriente",243605,,FALSE,TRUE
+Regular,24361001,regular,"vigencias fiscales anteriores",243610,,FALSE,TRUE
+Regular,24400001,regular,"de espectáculos públicos",2440,,FALSE,TRUE
+Regular,24440501,regular,"de hidrocarburos",244405,,FALSE,TRUE
+Regular,24441001,regular,"de minas",244410,,FALSE,TRUE
+Regular,24480001,regular,"regalías e impuestos a la pequeña y mediana minería",2448,,FALSE,TRUE
+Regular,24520001,regular,"a las exportaciones cafeteras",2452,,FALSE,TRUE
+Regular,24560001,regular,"a las importaciones",2456,,FALSE,TRUE
+Regular,24600001,regular,"cuotas de fomento",2460,,FALSE,TRUE
+Regular,24640501,regular,"de licores",246405,,FALSE,TRUE
+Regular,24641001,regular,"de cervezas",246410,,FALSE,TRUE
+Regular,24641501,regular,"de cigarrillos",246415,,FALSE,TRUE
+Regular,24680001,regular,"al sacrificio de ganado",2468,,FALSE,TRUE
+Regular,24720001,regular,"al azar y juegos",2472,,FALSE,TRUE
+Regular,24760001,regular,"gravámenes y regalías por utilización del suelo",2476,,FALSE,TRUE
+Regular,24950001,regular,otros,2495,,FALSE,TRUE
+Regular,25050001,regular,"salarios por pagar",2505,,FALSE,TRUE
+Regular,25100501,regular,"ley laboral anterior",251005,,FALSE,TRUE
+Regular,25101001,regular,"ley 50 de 1990 y normas posteriores",251010,,FALSE,TRUE
+Regular,25150001,regular,"intereses sobre cesantías",2515,,FALSE,TRUE
+Regular,25200001,regular,"prima de servicios",2520,,FALSE,TRUE
+Regular,25250001,regular,"vacaciones consolidadas",2525,,FALSE,TRUE
+Regular,25300501,regular,primas,253005,,FALSE,TRUE
+Regular,25301001,regular,auxilios,253010,,FALSE,TRUE
+Regular,25301501,regular,"dotación y suministro a trabajadores",253015,,FALSE,TRUE
+Regular,25302001,regular,bonificaciones,253020,,FALSE,TRUE
+Regular,25302501,regular,seguros,253025,,FALSE,TRUE
+Regular,25309501,regular,otras,253095,,FALSE,TRUE
+Regular,25320001,regular,"pensiones por pagar",2532,,FALSE,TRUE
+Regular,25350001,regular,"cuotas partes pensiones de jubilación",2535,,FALSE,TRUE
+Regular,25400001,regular,"indemnizaciones laborales",2540,,FALSE,TRUE
+Regular,26050501,regular,intereses,260505,,FALSE,TRUE
+Regular,26051001,regular,comisiones,260510,,FALSE,TRUE
+Regular,26051501,regular,honorarios,260515,,FALSE,TRUE
+Regular,26052001,regular,"servicios técnicos",260520,,FALSE,TRUE
+Regular,26052501,regular,"transportes, fletes y acarreos",260525,,FALSE,TRUE
+Regular,26053001,regular,"gastos de viaje",260530,,FALSE,TRUE
+Regular,26053501,regular,"servicios públicos",260535,,FALSE,TRUE
+Regular,26054001,regular,regalías,260540,,FALSE,TRUE
+Regular,26054501,regular,garantías,260545,,FALSE,TRUE
+Regular,26055001,regular,"materiales y repuestos",260550,,FALSE,TRUE
+Regular,26059501,regular,otros,260595,,FALSE,TRUE
+Regular,26100501,regular,cesantías,261005,,FALSE,TRUE
+Regular,26101001,regular,"intereses sobre cesantías",261010,,FALSE,TRUE
+Regular,26101501,regular,vacaciones,261015,,FALSE,TRUE
+Regular,26102001,regular,"prima de servicios",261020,,FALSE,TRUE
+Regular,26102501,regular,"prestaciones extralegales",261025,,FALSE,TRUE
+Regular,26103001,regular,viáticos,261030,,FALSE,TRUE
+Regular,26109501,regular,otras,261095,,FALSE,TRUE
+Regular,26150501,regular,"de renta y complementarios",261505,,FALSE,TRUE
+Regular,26151001,regular,"de industria y comercio",261510,,FALSE,TRUE
+Regular,26151501,regular,"tasa por utilización de puertos",261515,,FALSE,TRUE
+Regular,26152001,regular,"de vehículos",261520,,FALSE,TRUE
+Regular,26152501,regular,"de hidrocarburos y minas",261525,,FALSE,TRUE
+Regular,26159501,regular,otros,261595,,FALSE,TRUE
+Regular,26200501,regular,"cálculo actuarial pensiones de jubilación",262005,,FALSE,TRUE
+Regular,26201001,regular,"pensiones de jubilación por amortizar (db)",262010,,FALSE,TRUE
+Regular,26250501,regular,"acueducto y alcantarillado",262505,,FALSE,TRUE
+Regular,26251001,regular,"energía eléctrica",262510,,FALSE,TRUE
+Regular,26251501,regular,teléfonos,262515,,FALSE,TRUE
+Regular,26259501,regular,otros,262595,,FALSE,TRUE
+Regular,26300501,regular,terrenos,263005,,FALSE,TRUE
+Regular,26301001,regular,"construcciones y edificaciones",263010,,FALSE,TRUE
+Regular,26301501,regular,"maquinaria y equipo",263015,,FALSE,TRUE
+Regular,26302001,regular,"equipo de oficina",263020,,FALSE,TRUE
+Regular,26302501,regular,"equipo de computación y comunicación",263025,,FALSE,TRUE
+Regular,26303001,regular,"equipo médico-científico",263030,,FALSE,TRUE
+Regular,26303501,regular,"equipo de hoteles y restaurantes",263035,,FALSE,TRUE
+Regular,26304001,regular,"flota y equipo de transporte",263040,,FALSE,TRUE
+Regular,26304501,regular,"flota y equipo fluvial y/o marítimo",263045,,FALSE,TRUE
+Regular,26305001,regular,"flota y equipo aéreo",263050,,FALSE,TRUE
+Regular,26305501,regular,"flota y equipo férreo",263055,,FALSE,TRUE
+Regular,26306001,regular,"acueductos, plantas y redes",263060,,FALSE,TRUE
+Regular,26306501,regular,"armamento de vigilancia",263065,,FALSE,TRUE
+Regular,26307001,regular,"envases y empaques",263070,,FALSE,TRUE
+Regular,26307501,regular,"plantaciones agrícolas y forestales",263075,,FALSE,TRUE
+Regular,26308001,regular,"vías de comunicación",263080,,FALSE,TRUE
+Regular,26308501,regular,"pozos artesianos",263085,,FALSE,TRUE
+Regular,26309501,regular,otros,263095,,FALSE,TRUE
+Regular,26350501,regular,"multas y sanciones autoridades administrativas",263505,,FALSE,TRUE
+Regular,26351001,regular,"intereses por multas y sanciones",263510,,FALSE,TRUE
+Regular,26351501,regular,reclamos,263515,,FALSE,TRUE
+Regular,26352001,regular,laborales,263520,,FALSE,TRUE
+Regular,26352501,regular,civiles,263525,,FALSE,TRUE
+Regular,26353001,regular,penales,263530,,FALSE,TRUE
+Regular,26353501,regular,administrativos,263535,,FALSE,TRUE
+Regular,26354001,regular,comerciales,263540,,FALSE,TRUE
+Regular,26359501,regular,otras,263595,,FALSE,TRUE
+Regular,26400001,regular,"para obligaciones de garantías",2640,,FALSE,TRUE
+Regular,26950501,regular,"para beneficencia",269505,,FALSE,TRUE
+Regular,26951001,regular,"para comunicaciones",269510,,FALSE,TRUE
+Regular,26951501,regular,"para pérdida en transporte",269515,,FALSE,TRUE
+Regular,26952001,regular,"para operación",269520,,FALSE,TRUE
+Regular,26952501,regular,"para protección de bienes agotables",269525,,FALSE,TRUE
+Regular,26953001,regular,"para ajustes en redención de unidades",269530,,FALSE,TRUE
+Regular,26953501,regular,autoseguro,269535,,FALSE,TRUE
+Regular,26954001,regular,"planes y programas de reforestación y electrificación",269540,,FALSE,TRUE
+Regular,26959501,regular,otras,269595,,FALSE,TRUE
+Regular,27050501,regular,intereses,270505,,FALSE,TRUE
+Regular,27051001,regular,comisiones,270510,,FALSE,TRUE
+Regular,27051501,regular,arrendamientos,270515,,FALSE,TRUE
+Regular,27052001,regular,honorarios,270520,,FALSE,TRUE
+Regular,27052501,regular,"servicios técnicos",270525,,FALSE,TRUE
+Regular,27053001,regular,"de suscriptores",270530,,FALSE,TRUE
+Regular,27053501,regular,"transportes, fletes y acarreos",270535,,FALSE,TRUE
+Regular,27054001,regular,"mercancía en tránsito ya vendida",270540,,FALSE,TRUE
+Regular,27054501,regular,"matrículas y pensiones",270545,,FALSE,TRUE
+Regular,27055001,regular,"cuotas de administración",270550,,FALSE,TRUE
+Regular,27059501,regular,otros,270595,,FALSE,TRUE
+Regular,27100501,regular,"reajuste del sistema",271005,,FALSE,TRUE
+Regular,27150001,regular,"utilidad diferida en ventas a plazos",2715,,FALSE,TRUE
+Regular,27200001,regular,"crédito por corrección monetaria diferida",2720,,FALSE,TRUE
+Regular,27250501,regular,"por depreciación flexible",272505,,FALSE,TRUE
+Regular,27259501,regular,diversos,272595,,FALSE,TRUE
+Regular,27259901,regular,"ajustes por inflación",272599,,FALSE,TRUE
+Regular,28050501,regular,"de clientes",280505,,FALSE,TRUE
+Regular,28051001,regular,"sobre contratos",280510,,FALSE,TRUE
+Regular,28051501,regular,"para obras en proceso",280515,,FALSE,TRUE
+Regular,28059501,regular,otros,280595,,FALSE,TRUE
+Regular,28100501,regular,"para futura suscripción de acciones",281005,,FALSE,TRUE
+Regular,28101001,regular,"para futuro pago de cuotas o derechos sociales",281010,,FALSE,TRUE
+Regular,28101501,regular,"para garantía en la prestación de servicios",281015,,FALSE,TRUE
+Regular,28102001,regular,"para garantía de contratos",281020,,FALSE,TRUE
+Regular,28102501,regular,"de licitaciones",281025,,FALSE,TRUE
+Regular,28103001,regular,"de manejo de bienes",281030,,FALSE,TRUE
+Regular,28103501,regular,"fondo de reserva",281035,,FALSE,TRUE
+Regular,28109501,regular,otros,281095,,FALSE,TRUE
+Regular,28150501,regular,"valores recibidos para terceros",281505,,FALSE,TRUE
+Regular,28151001,regular,"venta por cuenta de terceros",281510,,FALSE,TRUE
+Regular,28200001,regular,"cuentas de operación conjunta",2820,,FALSE,TRUE
+Regular,28250501,regular,"cumplimiento obligaciones laborales",282505,,FALSE,TRUE
+Regular,28251001,regular,"para estabilidad de obra",282510,,FALSE,TRUE
+Regular,28251501,regular,"garantía cumplimiento de contratos",282515,,FALSE,TRUE
+Regular,28300501,regular,indemnizaciones,283005,,FALSE,TRUE
+Regular,28301001,regular,"depósitos judiciales",283010,,FALSE,TRUE
+Regular,28350501,regular,"cuotas netas",283505,,FALSE,TRUE
+Regular,28351001,regular,"grupos en formación",283510,,FALSE,TRUE
+Regular,28400001,regular,"cuentas en participación",2840,,FALSE,TRUE
+Regular,28950501,regular,"préstamos de productos",289505,,FALSE,TRUE
+Regular,28951001,regular,"reembolso de costos exploratorios",289510,,FALSE,TRUE
+Regular,28951501,regular,"programa de extensión agropecuaria",289515,,FALSE,TRUE
+Regular,29050001,regular,"bonos en circulación",2905,,FALSE,TRUE
+Regular,29100001,regular,"bonos obligatoriamente convertibles en acciones",2910,,FALSE,TRUE
+Regular,29150001,regular,"papeles comerciales",2915,,FALSE,TRUE
+Regular,29200501,regular,"valor bonos pensionales",292005,,FALSE,TRUE
+Regular,29201001,regular,"bonos pensionales por amortizar (db)",292010,,FALSE,TRUE
+Regular,29201501,regular,"intereses causados sobre bonos pensionales",292015,,FALSE,TRUE
+Regular,29250501,regular,"valor títulos pensionales",292505,,FALSE,TRUE
+Regular,29251001,regular,"títulos pensionales por amortizar (db)",292510,,FALSE,TRUE
+Regular,29251501,regular,"intereses causados sobre títulos pensionales",292515,,FALSE,TRUE
+Regular,31050501,regular,"capital autorizado",310505,,FALSE,TRUE
+Regular,31051001,regular,"capital por suscribir (db)",310510,,FALSE,TRUE
+Regular,31051501,regular,"capital suscrito por cobrar (db)",310515,,FALSE,TRUE
+Regular,31150501,regular,"cuotas o partes de interés social",311505,,FALSE,TRUE
+Regular,31151001,regular,"aportes de socios-fondo mutuo de inversión",311510,,FALSE,TRUE
+Regular,31151501,regular,"contribución de la empresa-fondo mutuo de inversión",311515,,FALSE,TRUE
+Regular,31152001,regular,"suscripciones del público",311520,,FALSE,TRUE
+Regular,31200001,regular,"capital asignado",3120,,FALSE,TRUE
+Regular,31250001,regular,"inversión suplementaria al capital asignado",3125,,FALSE,TRUE
+Regular,31300001,regular,"capital de personas naturales",3130,,FALSE,TRUE
+Regular,31350001,regular,"aportes del estado",3135,,FALSE,TRUE
+Regular,31400001,regular,"fondo social",3140,,FALSE,TRUE
+Regular,32050501,regular,"prima en colocación de acciones",320505,,FALSE,TRUE
+Regular,32051001,regular,"prima en colocación de acciones por cobrar (db)",320510,,FALSE,TRUE
+Regular,32051501,regular,"prima en colocación de cuotas o partes de interés social",320515,,FALSE,TRUE
+Regular,32100501,regular,"en dinero",321005,,FALSE,TRUE
+Regular,32101001,regular,"en valores mobiliarios",321010,,FALSE,TRUE
+Regular,32101501,regular,"en bienes muebles",321015,,FALSE,TRUE
+Regular,32102001,regular,"en bienes inmuebles",321020,,FALSE,TRUE
+Regular,32102501,regular,"en intangibles",321025,,FALSE,TRUE
+Regular,32150001,regular,"crédito mercantil",3215,,FALSE,TRUE
+Regular,32200001,regular,"know how",3220,,FALSE,TRUE
+Regular,32250501,regular,"de acciones",322505,,FALSE,TRUE
+Regular,32251001,regular,"de cuotas o partes de interés social",322510,,FALSE,TRUE
+Regular,33050501,regular,"reserva legal",330505,,FALSE,TRUE
+Regular,33051001,regular,"reservas por disposiciones fiscales",330510,,FALSE,TRUE
+Regular,33051501,regular,"reserva para readquisición de acciones",330515,,FALSE,TRUE
+Regular,33051601,regular,"acciones propias readquiridas (db)",330516,,FALSE,TRUE
+Regular,33051701,regular,"reserva para readquisición de cuotas o partes de interés social",330517,,FALSE,TRUE
+Regular,33051801,regular,"cuotas o partes de interés social propias readquiridas (db)",330518,,FALSE,TRUE
+Regular,33052001,regular,"reserva para extensión agropecuaria",330520,,FALSE,TRUE
+Regular,33052501,regular,"reserva ley 7ª de 1990",330525,,FALSE,TRUE
+Regular,33053001,regular,"reserva para reposición de semovientes",330530,,FALSE,TRUE
+Regular,33053501,regular,"reserva ley 4ª de 1980",330535,,FALSE,TRUE
+Regular,33059501,regular,otras,330595,,FALSE,TRUE
+Regular,33100501,regular,"para futuras capitalizaciones",331005,,FALSE,TRUE
+Regular,33101001,regular,"para reposición de activos",331010,,FALSE,TRUE
+Regular,33101501,regular,"para futuros ensanches",331015,,FALSE,TRUE
+Regular,33109501,regular,otras,331095,,FALSE,TRUE
+Regular,33150501,regular,"para beneficencia y civismo",331505,,FALSE,TRUE
+Regular,33151001,regular,"para futuras capitalizaciones",331510,,FALSE,TRUE
+Regular,33151501,regular,"para futuros ensanches",331515,,FALSE,TRUE
+Regular,33152001,regular,"para adquisición o reposición de propiedades, planta y equipo",331520,,FALSE,TRUE
+Regular,33152501,regular,"para investigaciones y desarrollo",331525,,FALSE,TRUE
+Regular,33153001,regular,"para fomento económico",331530,,FALSE,TRUE
+Regular,33153501,regular,"para capital de trabajo",331535,,FALSE,TRUE
+Regular,33154001,regular,"para estabilización de rendimientos",331540,,FALSE,TRUE
+Regular,33154501,regular,"a disposición del máximo órgano social",331545,,FALSE,TRUE
+Regular,33159501,regular,otras,331595,,FALSE,TRUE
+Regular,34050501,regular,"de capital social",340505,,FALSE,TRUE
+Regular,34051001,regular,"de superávit de capital",340510,,FALSE,TRUE
+Regular,34051501,regular,"de reservas",340515,,FALSE,TRUE
+Regular,34052001,regular,"de resultados de ejercicios anteriores",340520,,FALSE,TRUE
+Regular,34052501,regular,"de activos en período improductivo",340525,,FALSE,TRUE
+Regular,34053001,regular,"de saneamiento fiscal",340530,,FALSE,TRUE
+Regular,34053501,regular,"de ajustes decreto 3019 de 1989",340535,,FALSE,TRUE
+Regular,34054001,regular,"de dividendos y participaciones decretadas en acciones, cuotas o",340540,,FALSE,TRUE
+Regular,34054501,regular,"superávit método de participación",340545,,FALSE,TRUE
+Regular,34100001,regular,"saneamiento fiscal",3410,,FALSE,TRUE
+Regular,34150001,regular,"ajustes por inflación decreto 3019 de 1989",3415,,FALSE,TRUE
+Regular,35050001,regular,"dividendos decretados en acciones",3505,,FALSE,TRUE
+Regular,35100001,regular,"participaciones decretadas en cuotas o partes de interés social",3510,,FALSE,TRUE
+Regular,36050001,regular,"utilidad del ejercicio",3605,,FALSE,TRUE
+Regular,36100001,regular,"pérdida del ejercicio",3610,,FALSE,TRUE
+Regular,37050001,regular,"utilidades acumuladas",3705,,FALSE,TRUE
+Regular,37100001,regular,"pérdidas acumuladas",3710,,FALSE,TRUE
+Regular,38050501,regular,acciones,380505,,FALSE,TRUE
+Regular,38051001,regular,"cuotas o partes de interés social",380510,,FALSE,TRUE
+Regular,38051501,regular,"derechos fiduciarios",380515,,FALSE,TRUE
+Regular,38100401,regular,terrenos,381004,,FALSE,TRUE
+Regular,38100601,regular,"materiales proyectos petroleros",381006,,FALSE,TRUE
+Regular,38100801,regular,"construcciones y edificaciones",381008,,FALSE,TRUE
+Regular,38101201,regular,"maquinaria y equipo",381012,,FALSE,TRUE
+Regular,38101601,regular,"equipo de oficina",381016,,FALSE,TRUE
+Regular,38102001,regular,"equipo de computación y comunicación",381020,,FALSE,TRUE
+Regular,38102401,regular,"equipo médico-científico",381024,,FALSE,TRUE
+Regular,38102801,regular,"equipo de hoteles y restaurantes",381028,,FALSE,TRUE
+Regular,38103201,regular,"flota y equipo de transporte",381032,,FALSE,TRUE
+Regular,38103601,regular,"flota y equipo fluvial y/o marítimo",381036,,FALSE,TRUE
+Regular,38104001,regular,"flota y equipo aéreo",381040,,FALSE,TRUE
+Regular,38104401,regular,"flota y equipo férreo",381044,,FALSE,TRUE
+Regular,38104801,regular,"acueductos, plantas y redes",381048,,FALSE,TRUE
+Regular,38105201,regular,"armamento de vigilancia",381052,,FALSE,TRUE
+Regular,38105601,regular,"envases y empaques",381056,,FALSE,TRUE
+Regular,38106001,regular,"plantaciones agrícolas y forestales",381060,,FALSE,TRUE
+Regular,38106401,regular,"vías de comunicación",381064,,FALSE,TRUE
+Regular,38106801,regular,"minas y canteras",381068,,FALSE,TRUE
+Regular,38107201,regular,"pozos artesianos",381072,,FALSE,TRUE
+Regular,38107601,regular,yacimientos,381076,,FALSE,TRUE
+Regular,38108001,regular,semovientes,381080,,FALSE,TRUE
+Regular,38950501,regular,"bienes de arte y cultura",389505,,FALSE,TRUE
+Regular,38951001,regular,"bienes entregados en comodato",389510,,FALSE,TRUE
+Regular,38951501,regular,"bienes recibidos en pago",389515,,FALSE,TRUE
+Regular,38952001,regular,"inventario de semovientes",389520,,FALSE,TRUE
+Regular,41050501,regular,"cultivo de cereales",410505,,FALSE,TRUE
+Regular,41051001,regular,"cultivos de hortalizas, legumbres y plantas ornamentales",410510,,FALSE,TRUE
+Regular,41051501,regular,"cultivos de frutas, nueces y plantas aromáticas",410515,,FALSE,TRUE
+Regular,41052001,regular,"cultivo de café",410520,,FALSE,TRUE
+Regular,41052501,regular,"cultivo de flores",410525,,FALSE,TRUE
+Regular,41053001,regular,"cultivo de caña de azúcar",410530,,FALSE,TRUE
+Regular,41053501,regular,"cultivo de algodón y plantas para material textil",410535,,FALSE,TRUE
+Regular,41054001,regular,"cultivo de banano",410540,,FALSE,TRUE
+Regular,41054501,regular,"otros cultivos agrícolas",410545,,FALSE,TRUE
+Regular,41055001,regular,"cría de ovejas, cabras, asnos, mulas y burdéganos",410550,,FALSE,TRUE
+Regular,41055501,regular,"cría de ganado caballar y vacuno",410555,,FALSE,TRUE
+Regular,41056001,regular,"producción avícola",410560,,FALSE,TRUE
+Regular,41056501,regular,"cría de otros animales",410565,,FALSE,TRUE
+Regular,41057001,regular,"servicios agrícolas y ganaderos",410570,,FALSE,TRUE
+Regular,41057501,regular,"actividad de caza",410575,,FALSE,TRUE
+Regular,41058001,regular,"actividad de silvicultura",410580,,FALSE,TRUE
+Regular,41059501,regular,"actividades conexas",410595,,FALSE,TRUE
+Regular,41059901,regular,"ajustes por inflación",410599,,FALSE,TRUE
+Regular,41100501,regular,"actividad de pesca",411005,,FALSE,TRUE
+Regular,41101001,regular,"explotación de criaderos de peces",411010,,FALSE,TRUE
+Regular,41109501,regular,"actividades conexas",411095,,FALSE,TRUE
+Regular,41109901,regular,"ajustes por inflación",411099,,FALSE,TRUE
+Regular,41150501,regular,carbón,411505,,FALSE,TRUE
+Regular,41151001,regular,"petróleo crudo",411510,,FALSE,TRUE
+Regular,41151201,regular,"gas natural",411512,,FALSE,TRUE
+Regular,41151401,regular,"servicios relacionados con extracción de petróleo y gas",411514,,FALSE,TRUE
+Regular,41151501,regular,"minerales de hierro",411515,,FALSE,TRUE
+Regular,41152001,regular,"minerales metalíferos no ferrosos",411520,,FALSE,TRUE
+Regular,41152501,regular,"piedra, arena y arcilla",411525,,FALSE,TRUE
+Regular,41152701,regular,"piedras preciosas",411527,,FALSE,TRUE
+Regular,41152801,regular,oro,411528,,FALSE,TRUE
+Regular,41153001,regular,"otras minas y canteras",411530,,FALSE,TRUE
+Regular,41153201,regular,"prestación de servicios sector minero",411532,,FALSE,TRUE
+Regular,41159501,regular,"actividades conexas",411595,,FALSE,TRUE
+Regular,41159901,regular,"ajustes por inflación",411599,,FALSE,TRUE
+Regular,41200101,regular,"producción y procesamiento de carnes y productos cárnicos",412001,,FALSE,TRUE
+Regular,41200201,regular,"productos de pescado",412002,,FALSE,TRUE
+Regular,41200301,regular,"productos de frutas, legumbres y hortalizas",412003,,FALSE,TRUE
+Regular,41200401,regular,"elaboración de aceites y grasas",412004,,FALSE,TRUE
+Regular,41200501,regular,"elaboración de productos lácteos",412005,,FALSE,TRUE
+Regular,41200601,regular,"elaboración de productos de molinería",412006,,FALSE,TRUE
+Regular,41200701,regular,"elaboración de almidones y derivados",412007,,FALSE,TRUE
+Regular,41200801,regular,"elaboración de alimentos para animales",412008,,FALSE,TRUE
+Regular,41200901,regular,"elaboración de productos para panadería",412009,,FALSE,TRUE
+Regular,41201001,regular,"elaboración de azúcar y melazas",412010,,FALSE,TRUE
+Regular,41201101,regular,"elaboración de cacao, chocolate y confitería",412011,,FALSE,TRUE
+Regular,41201201,regular,"elaboración de pastas y productos farináceos",412012,,FALSE,TRUE
+Regular,41201301,regular,"elaboración de productos de café",412013,,FALSE,TRUE
+Regular,41201401,regular,"elaboración de otros productos alimenticios",412014,,FALSE,TRUE
+Regular,41201501,regular,"elaboración de bebidas alcohólicas y alcohol etílico",412015,,FALSE,TRUE
+Regular,41201601,regular,"elaboración de vinos",412016,,FALSE,TRUE
+Regular,41201701,regular,"elaboración de bebidas malteadas y de malta",412017,,FALSE,TRUE
+Regular,41201801,regular,"elaboración de bebidas no alcohólicas",412018,,FALSE,TRUE
+Regular,41201901,regular,"elaboración de productos de tabaco",412019,,FALSE,TRUE
+Regular,41202001,regular,"preparación e hilatura de fibras textiles y tejeduría",412020,,FALSE,TRUE
+Regular,41202101,regular,"acabado de productos textiles",412021,,FALSE,TRUE
+Regular,41202201,regular,"elaboración de artículos de materiales textiles",412022,,FALSE,TRUE
+Regular,41202301,regular,"elaboración de tapices y alfombras",412023,,FALSE,TRUE
+Regular,41202401,regular,"elaboración de cuerdas, cordeles, bramantes y redes",412024,,FALSE,TRUE
+Regular,41202501,regular,"elaboración de otros productos textiles",412025,,FALSE,TRUE
+Regular,41202601,regular,"elaboración de tejidos",412026,,FALSE,TRUE
+Regular,41202701,regular,"elaboración de prendas de vestir",412027,,FALSE,TRUE
+Regular,41202801,regular,"preparación, adobo y teñido de pieles",412028,,FALSE,TRUE
+Regular,41202901,regular,"curtido, adobo o preparación de cuero",412029,,FALSE,TRUE
+Regular,41203001,regular,"elaboración de maletas, bolsos y similares",412030,,FALSE,TRUE
+Regular,41203101,regular,"elaboración de calzado",412031,,FALSE,TRUE
+Regular,41203201,regular,"producción de madera, artículos de madera y corcho",412032,,FALSE,TRUE
+Regular,41203301,regular,"elaboración de pasta y productos de madera, papel y cartón",412033,,FALSE,TRUE
+Regular,41203401,regular,"ediciones y publicaciones",412034,,FALSE,TRUE
+Regular,41203501,regular,impresión,412035,,FALSE,TRUE
+Regular,41203601,regular,"servicios relacionados con la edición y la impresión",412036,,FALSE,TRUE
+Regular,41203701,regular,"reproducción de grabaciones",412037,,FALSE,TRUE
+Regular,41203801,regular,"elaboración de productos de horno de coque",412038,,FALSE,TRUE
+Regular,41203901,regular,"elaboración de productos de la refinación de petróleo",412039,,FALSE,TRUE
+Regular,41204001,regular,"elaboración de sustancias químicas básicas",412040,,FALSE,TRUE
+Regular,41204101,regular,"elaboración de abonos y compuestos de nitrógeno",412041,,FALSE,TRUE
+Regular,41204201,regular,"elaboración de plástico y caucho sintético",412042,,FALSE,TRUE
+Regular,41204301,regular,"elaboración de productos químicos de uso agropecuario",412043,,FALSE,TRUE
+Regular,41204401,regular,"elaboración de pinturas, tintas y masillas",412044,,FALSE,TRUE
+Regular,41204501,regular,"elaboración de productos farmacéuticos y botánicos",412045,,FALSE,TRUE
+Regular,41204601,regular,"elaboración de jabones, detergentes y preparados de tocador",412046,,FALSE,TRUE
+Regular,41204701,regular,"elaboración de otros productos químicos",412047,,FALSE,TRUE
+Regular,41204801,regular,"elaboración de fibras",412048,,FALSE,TRUE
+Regular,41204901,regular,"elaboración de otros productos de caucho",412049,,FALSE,TRUE
+Regular,41205001,regular,"elaboración de productos de plástico",412050,,FALSE,TRUE
+Regular,41205101,regular,"elaboración de vidrio y productos de vidrio",412051,,FALSE,TRUE
+Regular,41205201,regular,"elaboración de productos de cerámica, loza, piedra, arcilla y",412052,,FALSE,TRUE
+Regular,41205301,regular,"elaboración de cemento, cal y yeso",412053,,FALSE,TRUE
+Regular,41205401,regular,"elaboración de artículos de hormigón, cemento y yeso",412054,,FALSE,TRUE
+Regular,41205501,regular,"corte, tallado y acabado de la piedra",412055,,FALSE,TRUE
+Regular,41205601,regular,"elaboración de otros productos minerales no metálicos",412056,,FALSE,TRUE
+Regular,41205701,regular,"industrias básicas y fundición de hierro y acero",412057,,FALSE,TRUE
+Regular,41205801,regular,"productos primarios de metales preciosos y de metales no ferrosos",412058,,FALSE,TRUE
+Regular,41205901,regular,"fundición de metales no ferrosos",412059,,FALSE,TRUE
+Regular,41206001,regular,"fabricación de productos metálicos para uso estructural",412060,,FALSE,TRUE
+Regular,41206101,regular,"forja, prensado, estampado, laminado de metal y pulvimetalurgia",412061,,FALSE,TRUE
+Regular,41206201,regular,"revestimiento de metales y obras de ingeniería mecánica",412062,,FALSE,TRUE
+Regular,41206301,regular,"fabricación de artículos de ferretería",412063,,FALSE,TRUE
+Regular,41206401,regular,"elaboración de otros productos de metal",412064,,FALSE,TRUE
+Regular,41206501,regular,"fabricación de maquinaria y equipo",412065,,FALSE,TRUE
+Regular,41206601,regular,"fabricación de equipos de elevación y manipulación",412066,,FALSE,TRUE
+Regular,41206701,regular,"elaboración de aparatos de uso doméstico",412067,,FALSE,TRUE
+Regular,41206801,regular,"elaboración de equipo de oficina",412068,,FALSE,TRUE
+Regular,41206901,regular,"elaboración de pilas y baterías primarias",412069,,FALSE,TRUE
+Regular,41207001,regular,"elaboración de equipo de iluminación",412070,,FALSE,TRUE
+Regular,41207101,regular,"elaboración de otros tipos de equipo eléctrico",412071,,FALSE,TRUE
+Regular,41207201,regular,"fabricación de equipos de radio, televisión y comunicaciones",412072,,FALSE,TRUE
+Regular,41207301,regular,"fabricación de aparatos e instrumentos médicos",412073,,FALSE,TRUE
+Regular,41207401,regular,"fabricación de instrumentos de medición y control",412074,,FALSE,TRUE
+Regular,41207501,regular,"fabricación de instrumentos de óptica y equipo fotográfico",412075,,FALSE,TRUE
+Regular,41207601,regular,"fabricación de relojes",412076,,FALSE,TRUE
+Regular,41207701,regular,"fabricación de vehículos automotores",412077,,FALSE,TRUE
+Regular,41207801,regular,"fabricación de carrocerías para automotores",412078,,FALSE,TRUE
+Regular,41207901,regular,"fabricación de partes piezas y accesorios para automotores",412079,,FALSE,TRUE
+Regular,41208001,regular,"fabricación y reparación de buques y otras embarcaciones",412080,,FALSE,TRUE
+Regular,41208101,regular,"fabricación de locomotoras y material rodante para ferrocarriles",412081,,FALSE,TRUE
+Regular,41208201,regular,"fabricación de aeronaves",412082,,FALSE,TRUE
+Regular,41208301,regular,"fabricación de motocicletas",412083,,FALSE,TRUE
+Regular,41208401,regular,"fabricación de bicicletas y sillas de ruedas",412084,,FALSE,TRUE
+Regular,41208501,regular,"fabricación de otros tipos de transporte",412085,,FALSE,TRUE
+Regular,41208601,regular,"fabricación de muebles",412086,,FALSE,TRUE
+Regular,41208701,regular,"fabricación de joyas y artículos conexos",412087,,FALSE,TRUE
+Regular,41208801,regular,"fabricación de instrumentos de música",412088,,FALSE,TRUE
+Regular,41208901,regular,"fabricación de artículos y equipo para deporte",412089,,FALSE,TRUE
+Regular,41209001,regular,"fabricación de juegos y juguetes",412090,,FALSE,TRUE
+Regular,41209101,regular,"reciclamiento de desperdicios",412091,,FALSE,TRUE
+Regular,41209501,regular,"productos de otras industrias manufactureras",412095,,FALSE,TRUE
+Regular,41209901,regular,"ajustes por inflación",412099,,FALSE,TRUE
+Regular,41250501,regular,"generación, captación y distribución de energía eléctrica",412505,,FALSE,TRUE
+Regular,41251001,regular,"fabricación de gas y distribución de combustibles gaseosos",412510,,FALSE,TRUE
+Regular,41251501,regular,"captación, depuración y distribución de agua",412515,,FALSE,TRUE
+Regular,41259501,regular,"actividades conexas",412595,,FALSE,TRUE
+Regular,41259901,regular,"ajustes por inflación",412599,,FALSE,TRUE
+Regular,41300501,regular,"preparación de terrenos",413005,,FALSE,TRUE
+Regular,41301001,regular,"construcción de edificios y obras de ingeniería civil",413010,,FALSE,TRUE
+Regular,41301501,regular,"acondicionamiento de edificios",413015,,FALSE,TRUE
+Regular,41302001,regular,"terminación de edificaciones",413020,,FALSE,TRUE
+Regular,41302501,regular,"alquiler de equipo con operarios",413025,,FALSE,TRUE
+Regular,41309501,regular,"actividades conexas",413095,,FALSE,TRUE
+Regular,41309901,regular,"ajustes por inflación",413099,,FALSE,TRUE
+Regular,41350201,regular,"venta de vehículos automotores",413502,,FALSE,TRUE
+Regular,41350401,regular,"mantenimiento, reparación y lavado de vehículos automotores",413504,,FALSE,TRUE
+Regular,41350601,regular,"venta de partes, piezas y accesorios de vehículos automotores",413506,,FALSE,TRUE
+Regular,41350801,regular,"venta de combustibles sólidos, líquidos, gaseosos",413508,,FALSE,TRUE
+Regular,41351001,regular,"venta de lubricantes, aditivos, llantas y lujos para automotores",413510,,FALSE,TRUE
+Regular,41351201,regular,"venta a cambio de retribución o por contrata",413512,,FALSE,TRUE
+Regular,41351401,regular,"venta de insumos, materias primas agropecuarias y flores",413514,,FALSE,TRUE
+Regular,41351601,regular,"venta de otros insumos y materias primas no agropecuarias",413516,,FALSE,TRUE
+Regular,41351801,regular,"venta de animales vivos y cueros",413518,,FALSE,TRUE
+Regular,41352001,regular,"venta de productos en almacenes no especializados",413520,,FALSE,TRUE
+Regular,41352201,regular,"venta de productos agropecuarios",413522,,FALSE,TRUE
+Regular,41352401,regular,"venta de productos textiles, de vestir, de cuero y calzado",413524,,FALSE,TRUE
+Regular,41352601,regular,"venta de papel y cartón",413526,,FALSE,TRUE
+Regular,41352801,regular,"venta de libros, revistas, elementos de papelería, útiles y textos",413528,,FALSE,TRUE
+Regular,41353001,regular,"venta de juegos, juguetes y artículos deportivos",413530,,FALSE,TRUE
+Regular,41353201,regular,"venta de instrumentos quirúrgicos y ortopédicos",413532,,FALSE,TRUE
+Regular,41353401,regular,"venta de artículos en relojerías y joyerías",413534,,FALSE,TRUE
+Regular,41353601,regular,"venta de electrodomésticos y muebles",413536,,FALSE,TRUE
+Regular,41353801,regular,"venta de productos de aseo, farmacéuticos, medicinales, y artículos de",413538,,FALSE,TRUE
+Regular,41354001,regular,"venta de cubiertos, vajillas, cristalería, porcelanas, cerámicas y",413540,,FALSE,TRUE
+Regular,41354201,regular,"venta de materiales de construcción, fontanería y calefacción",413542,,FALSE,TRUE
+Regular,41354401,regular,"venta de pinturas y lacas",413544,,FALSE,TRUE
+Regular,41354601,regular,"venta de productos de vidrios y marquetería",413546,,FALSE,TRUE
+Regular,41354801,regular,"venta de herramientas y artículos de ferretería",413548,,FALSE,TRUE
+Regular,41355001,regular,"venta de químicos",413550,,FALSE,TRUE
+Regular,41355201,regular,"venta de productos intermedios, desperdicios y desechos",413552,,FALSE,TRUE
+Regular,41355401,regular,"venta de maquinaria, equipo de oficina y programas de computador",413554,,FALSE,TRUE
+Regular,41355601,regular,"venta de artículos en cacharrerías y misceláneas",413556,,FALSE,TRUE
+Regular,41355801,regular,"venta de instrumentos musicales",413558,,FALSE,TRUE
+Regular,41356001,regular,"venta de artículos en casas de empeño y prenderías",413560,,FALSE,TRUE
+Regular,41356201,regular,"venta de equipo fotográfico",413562,,FALSE,TRUE
+Regular,41356401,regular,"venta de equipo óptico y de precisión",413564,,FALSE,TRUE
+Regular,41356601,regular,"venta de empaques",413566,,FALSE,TRUE
+Regular,41356801,regular,"venta de equipo profesional y científico",413568,,FALSE,TRUE
+Regular,41357001,regular,"venta de loterías, rifas, chance, apuestas y similares",413570,,FALSE,TRUE
+Regular,41357201,regular,"reparación de efectos personales y electrodomésticos",413572,,FALSE,TRUE
+Regular,41359501,regular,"venta de otros productos",413595,,FALSE,TRUE
+Regular,41359901,regular,"ajustes por inflación",413599,,FALSE,TRUE
+Regular,41400501,regular,hotelería,414005,,FALSE,TRUE
+Regular,41401001,regular,"campamento y otros tipos de hospedaje",414010,,FALSE,TRUE
+Regular,41401501,regular,restaurantes,414015,,FALSE,TRUE
+Regular,41402001,regular,"bares y cantinas",414020,,FALSE,TRUE
+Regular,41409501,regular,"actividades conexas",414095,,FALSE,TRUE
+Regular,41409901,regular,"ajustes por inflación",414099,,FALSE,TRUE
+Regular,41450501,regular,"servicio de transporte por carretera",414505,,FALSE,TRUE
+Regular,41451001,regular,"servicio de transporte por vía férrea",414510,,FALSE,TRUE
+Regular,41451501,regular,"servicio de transporte por vía acuática",414515,,FALSE,TRUE
+Regular,41452001,regular,"servicio de transporte por vía aérea",414520,,FALSE,TRUE
+Regular,41452501,regular,"servicio de transporte por tuberías",414525,,FALSE,TRUE
+Regular,41453001,regular,"manipulación de carga",414530,,FALSE,TRUE
+Regular,41453501,regular,"almacenamiento y depósito",414535,,FALSE,TRUE
+Regular,41454001,regular,"servicios complementarios para el transporte",414540,,FALSE,TRUE
+Regular,41454501,regular,"agencias de viaje",414545,,FALSE,TRUE
+Regular,41455001,regular,"otras agencias de transporte",414550,,FALSE,TRUE
+Regular,41455501,regular,"servicio postal y de correo",414555,,FALSE,TRUE
+Regular,41456001,regular,"servicio telefónico",414560,,FALSE,TRUE
+Regular,41456501,regular,"servicio de telégrafo",414565,,FALSE,TRUE
+Regular,41457001,regular,"servicio de transmisión de datos",414570,,FALSE,TRUE
+Regular,41457501,regular,"servicio de radio y televisión por cable",414575,,FALSE,TRUE
+Regular,41458001,regular,"transmisión de sonido e imágenes por contrato",414580,,FALSE,TRUE
+Regular,41459501,regular,"actividades conexas",414595,,FALSE,TRUE
+Regular,41459901,regular,"ajustes por inflación",414599,,FALSE,TRUE
+Regular,41500501,regular,"venta de inversiones",415005,,FALSE,TRUE
+Regular,41501001,regular,"dividendos de sociedades anónimas y/o asimiladas",415010,,FALSE,TRUE
+Regular,41501501,regular,"participaciones de sociedades limitadas y/o asimiladas",415015,,FALSE,TRUE
+Regular,41502001,regular,intereses,415020,,FALSE,TRUE
+Regular,41502501,regular,"reajuste monetario-upac (hoy uvr)",415025,,FALSE,TRUE
+Regular,41503001,regular,comisiones,415030,,FALSE,TRUE
+Regular,41503501,regular,"operaciones de descuento",415035,,FALSE,TRUE
+Regular,41504001,regular,"cuotas de inscripción-consorcios",415040,,FALSE,TRUE
+Regular,41504501,regular,"cuotas de administración-consorcios",415045,,FALSE,TRUE
+Regular,41505001,regular,"reajuste del sistema-consorcios",415050,,FALSE,TRUE
+Regular,41505501,regular,"eliminación de suscriptores-consorcios",415055,,FALSE,TRUE
+Regular,41506001,regular,"cuotas de ingreso o retiro-sociedad administradora",415060,,FALSE,TRUE
+Regular,41506501,regular,"servicios a comisionistas",415065,,FALSE,TRUE
+Regular,41507001,regular,"inscripciones y cuotas",415070,,FALSE,TRUE
+Regular,41507501,regular,"recuperación de garantías",415075,,FALSE,TRUE
+Regular,41508001,regular,"ingresos método de participación",415080,,FALSE,TRUE
+Regular,41509501,regular,"actividades conexas",415095,,FALSE,TRUE
+Regular,41509901,regular,"ajustes por inflación",415099,,FALSE,TRUE
+Regular,41550501,regular,"arrendamientos de bienes inmuebles",415505,,FALSE,TRUE
+Regular,41551001,regular,"inmobiliarias por retribución o contrata",415510,,FALSE,TRUE
+Regular,41551501,regular,"alquiler equipo de transporte",415515,,FALSE,TRUE
+Regular,41552001,regular,"alquiler maquinaria y equipo",415520,,FALSE,TRUE
+Regular,41552501,regular,"alquiler de efectos personales y enseres domésticos",415525,,FALSE,TRUE
+Regular,41553001,regular,"consultoría en equipo y programas de informática",415530,,FALSE,TRUE
+Regular,41553501,regular,"procesamiento de datos",415535,,FALSE,TRUE
+Regular,41554001,regular,"mantenimiento y reparación de maquinaria de oficina",415540,,FALSE,TRUE
+Regular,41554501,regular,"investigaciones científicas y de desarrollo",415545,,FALSE,TRUE
+Regular,41555001,regular,"actividades empresariales de consultoría",415550,,FALSE,TRUE
+Regular,41555501,regular,publicidad,415555,,FALSE,TRUE
+Regular,41556001,regular,"dotación de personal",415560,,FALSE,TRUE
+Regular,41556501,regular,"investigación y seguridad",415565,,FALSE,TRUE
+Regular,41557001,regular,"limpieza de inmuebles",415570,,FALSE,TRUE
+Regular,41557501,regular,fotografía,415575,,FALSE,TRUE
+Regular,41558001,regular,"envase y empaque",415580,,FALSE,TRUE
+Regular,41558501,regular,fotocopiado,415585,,FALSE,TRUE
+Regular,41559001,regular,"mantenimiento y reparación de maquinaria y equipo",415590,,FALSE,TRUE
+Regular,41559501,regular,"actividades conexas",415595,,FALSE,TRUE
+Regular,41559901,regular,"ajustes por inflación",415599,,FALSE,TRUE
+Regular,41600501,regular,"actividades relacionadas con la educación",416005,,FALSE,TRUE
+Regular,41609501,regular,"actividades conexas",416095,,FALSE,TRUE
+Regular,41609901,regular,"ajustes por inflación",416099,,FALSE,TRUE
+Regular,41650501,regular,"servicio hospitalario",416505,,FALSE,TRUE
+Regular,41651001,regular,"servicio médico",416510,,FALSE,TRUE
+Regular,41651501,regular,"servicio odontológico",416515,,FALSE,TRUE
+Regular,41652001,regular,"servicio de laboratorio",416520,,FALSE,TRUE
+Regular,41652501,regular,"actividades veterinarias",416525,,FALSE,TRUE
+Regular,41653001,regular,"actividades de servicios sociales",416530,,FALSE,TRUE
+Regular,41659501,regular,"actividades conexas",416595,,FALSE,TRUE
+Regular,41659901,regular,"ajustes por inflación",416599,,FALSE,TRUE
+Regular,41700501,regular,"eliminación de desperdicios y aguas residuales",417005,,FALSE,TRUE
+Regular,41701001,regular,"actividades de asociación",417010,,FALSE,TRUE
+Regular,41701501,regular,"producción y distribución de filmes y videocintas",417015,,FALSE,TRUE
+Regular,41702001,regular,"exhibición de filmes y videocintas",417020,,FALSE,TRUE
+Regular,41702501,regular,"actividad de radio y televisión",417025,,FALSE,TRUE
+Regular,41703001,regular,"actividad teatral, musical y artística",417030,,FALSE,TRUE
+Regular,41703501,regular,"grabación y producción de discos",417035,,FALSE,TRUE
+Regular,41704001,regular,"entretenimiento y esparcimiento",417040,,FALSE,TRUE
+Regular,41704501,regular,"agencias de noticias",417045,,FALSE,TRUE
+Regular,41705001,regular,"lavanderías y similares",417050,,FALSE,TRUE
+Regular,41705501,regular,"peluquerías y similares",417055,,FALSE,TRUE
+Regular,41706001,regular,"servicios funerarios",417060,,FALSE,TRUE
+Regular,41706501,regular,"zonas francas",417065,,FALSE,TRUE
+Regular,41709501,regular,"actividades conexas",417095,,FALSE,TRUE
+Regular,41709901,regular,"ajustes por inflación",417099,,FALSE,TRUE
+Regular,41759901,regular,"ajustes por inflación",417599,,FALSE,TRUE
+Regular,42050501,regular,"materia prima",420505,,FALSE,TRUE
+Regular,42051001,regular,"material de desecho",420510,,FALSE,TRUE
+Regular,42051501,regular,"materiales varios",420515,,FALSE,TRUE
+Regular,42052001,regular,"productos de diversificación",420520,,FALSE,TRUE
+Regular,42052501,regular,"excedentes de exportación",420525,,FALSE,TRUE
+Regular,42053001,regular,"envases y empaques",420530,,FALSE,TRUE
+Regular,42053501,regular,"productos agrícolas",420535,,FALSE,TRUE
+Regular,42054001,regular,"de propaganda",420540,,FALSE,TRUE
+Regular,42054501,regular,"productos en remate",420545,,FALSE,TRUE
+Regular,42055001,regular,"combustibles y lubricantes",420550,,FALSE,TRUE
+Regular,42059901,regular,"ajustes por inflación",420599,,FALSE,TRUE
+Regular,42100501,regular,intereses,421005,,FALSE,TRUE
+Regular,42101001,regular,"reajuste monetario-upac (hoy uvr)",421010,,FALSE,TRUE
+Regular,42101501,regular,"descuentos amortizados",421015,,FALSE,TRUE
+Regular,42102001,regular,"diferencia en cambio",421020,,FALSE,TRUE
+Regular,42102501,regular,"financiación vehículos",421025,,FALSE,TRUE
+Regular,42103001,regular,"financiación sistemas de viajes",421030,,FALSE,TRUE
+Regular,42103501,regular,"aceptaciones bancarias",421035,,FALSE,TRUE
+Regular,42104001,regular,"descuentos comerciales condicionados",421040,,FALSE,TRUE
+Regular,42104501,regular,"descuentos bancarios",421045,,FALSE,TRUE
+Regular,42105001,regular,"comisiones cheques de otras plazas",421050,,FALSE,TRUE
+Regular,42105501,regular,"multas y recargos",421055,,FALSE,TRUE
+Regular,42106001,regular,"sanciones cheques devueltos",421060,,FALSE,TRUE
+Regular,42109501,regular,otros,421095,,FALSE,TRUE
+Regular,42109901,regular,"ajustes por inflación",421099,,FALSE,TRUE
+Regular,42150501,regular,"de sociedades anónimas y/o asimiladas",421505,,FALSE,TRUE
+Regular,42151001,regular,"de sociedades limitadas y/o asimiladas",421510,,FALSE,TRUE
+Regular,42159901,regular,"ajustes por inflación",421599,,FALSE,TRUE
+Regular,42180501,regular,"de sociedades anónimas y/o asimiladas",421805,,FALSE,TRUE
+Regular,42181001,regular,"de sociedades limitadas y/o asimiladas",421810,,FALSE,TRUE
+Regular,42200501,regular,terrenos,422005,,FALSE,TRUE
+Regular,42201001,regular,"construcciones y edificios",422010,,FALSE,TRUE
+Regular,42201501,regular,"maquinaria y equipo",422015,,FALSE,TRUE
+Regular,42202001,regular,"equipo de oficina",422020,,FALSE,TRUE
+Regular,42202501,regular,"equipo de computación y comunicación",422025,,FALSE,TRUE
+Regular,42203001,regular,"equipo médico-científico",422030,,FALSE,TRUE
+Regular,42203501,regular,"equipo de hoteles y restaurantes",422035,,FALSE,TRUE
+Regular,42204001,regular,"flota y equipo de transporte",422040,,FALSE,TRUE
+Regular,42204501,regular,"flota y equipo fluvial y/o marítimo",422045,,FALSE,TRUE
+Regular,42205001,regular,"flota y equipo aéreo",422050,,FALSE,TRUE
+Regular,42205501,regular,"flota y equipo férreo",422055,,FALSE,TRUE
+Regular,42206001,regular,"acueductos, plantas y redes",422060,,FALSE,TRUE
+Regular,42206201,regular,"envases y empaques",422062,,FALSE,TRUE
+Regular,42206501,regular,"plantaciones agrícolas y forestales",422065,,FALSE,TRUE
+Regular,42207001,regular,aeródromos,422070,,FALSE,TRUE
+Regular,42207501,regular,semovientes,422075,,FALSE,TRUE
+Regular,42209901,regular,"ajustes por inflación",422099,,FALSE,TRUE
+Regular,42250501,regular,"sobre inversiones",422505,,FALSE,TRUE
+Regular,42251001,regular,"de concesionarios",422510,,FALSE,TRUE
+Regular,42251501,regular,"de actividades financieras",422515,,FALSE,TRUE
+Regular,42252001,regular,"por venta de servicios de taller",422520,,FALSE,TRUE
+Regular,42252501,regular,"por venta de seguros",422525,,FALSE,TRUE
+Regular,42253001,regular,"por ingresos para terceros",422530,,FALSE,TRUE
+Regular,42253501,regular,"por distribución de películas",422535,,FALSE,TRUE
+Regular,42254001,regular,"derechos de autor",422540,,FALSE,TRUE
+Regular,42254501,regular,"derechos de programación",422545,,FALSE,TRUE
+Regular,42259901,regular,"ajustes por inflación",422599,,FALSE,TRUE
+Regular,42300501,regular,asesorías,423005,,FALSE,TRUE
+Regular,42301001,regular,"asistencia técnica",423010,,FALSE,TRUE
+Regular,42301501,regular,"administración de vinculadas",423015,,FALSE,TRUE
+Regular,42309901,regular,"ajustes por inflación",423099,,FALSE,TRUE
+Regular,42350501,regular,"de báscula",423505,,FALSE,TRUE
+Regular,42351001,regular,"de transporte",423510,,FALSE,TRUE
+Regular,42351501,regular,"de prensa",423515,,FALSE,TRUE
+Regular,42352001,regular,administrativos,423520,,FALSE,TRUE
+Regular,42352501,regular,técnicos,423525,,FALSE,TRUE
+Regular,42353001,regular,"de computación",423530,,FALSE,TRUE
+Regular,42353501,regular,"de telefax",423535,,FALSE,TRUE
+Regular,42354001,regular,"taller de vehículos",423540,,FALSE,TRUE
+Regular,42354501,regular,"de recepción de aeronaves",423545,,FALSE,TRUE
+Regular,42355001,regular,"de transporte programa gas natural",423550,,FALSE,TRUE
+Regular,42355501,regular,"por contratos",423555,,FALSE,TRUE
+Regular,42356001,regular,"de trilla",423560,,FALSE,TRUE
+Regular,42356501,regular,"de mantenimiento",423565,,FALSE,TRUE
+Regular,42357001,regular,"al personal",423570,,FALSE,TRUE
+Regular,42357501,regular,"de casino",423575,,FALSE,TRUE
+Regular,42358001,regular,fletes,423580,,FALSE,TRUE
+Regular,42358501,regular,"entre compañías",423585,,FALSE,TRUE
+Regular,42359501,regular,otros,423595,,FALSE,TRUE
+Regular,42359901,regular,"ajustes por inflación",423599,,FALSE,TRUE
+Regular,42400501,regular,acciones,424005,,FALSE,TRUE
+Regular,42401001,regular,"cuotas o partes de interés social",424010,,FALSE,TRUE
+Regular,42401501,regular,bonos,424015,,FALSE,TRUE
+Regular,42402001,regular,cédulas,424020,,FALSE,TRUE
+Regular,42402501,regular,certificados,424025,,FALSE,TRUE
+Regular,42403001,regular,"papeles comerciales",424030,,FALSE,TRUE
+Regular,42403501,regular,títulos,424035,,FALSE,TRUE
+Regular,42404501,regular,"derechos fiduciarios",424045,,FALSE,TRUE
+Regular,42405001,regular,obligatorias,424050,,FALSE,TRUE
+Regular,42409501,regular,otras,424095,,FALSE,TRUE
+Regular,42409901,regular,"ajustes por inflación",424099,,FALSE,TRUE
+Regular,42450401,regular,terrenos,424504,,FALSE,TRUE
+Regular,42450601,regular,"materiales industria petrolera",424506,,FALSE,TRUE
+Regular,42450801,regular,"construcciones en curso",424508,,FALSE,TRUE
+Regular,42451201,regular,"maquinaria en montaje",424512,,FALSE,TRUE
+Regular,42451601,regular,"construcciones y edificaciones",424516,,FALSE,TRUE
+Regular,42452001,regular,"maquinaria y equipo",424520,,FALSE,TRUE
+Regular,42452401,regular,"equipo de oficina",424524,,FALSE,TRUE
+Regular,42452801,regular,"equipo de computación y comunicación",424528,,FALSE,TRUE
+Regular,42453201,regular,"equipo médico-científico",424532,,FALSE,TRUE
+Regular,42453601,regular,"equipo de hoteles y restaurantes",424536,,FALSE,TRUE
+Regular,42454001,regular,"flota y equipo de transporte",424540,,FALSE,TRUE
+Regular,42454401,regular,"flota y equipo fluvial y/o marítimo",424544,,FALSE,TRUE
+Regular,42454801,regular,"flota y equipo aéreo",424548,,FALSE,TRUE
+Regular,42455201,regular,"flota y equipo férreo",424552,,FALSE,TRUE
+Regular,42455601,regular,"acueductos, plantas y redes",424556,,FALSE,TRUE
+Regular,42456001,regular,"armamento de vigilancia",424560,,FALSE,TRUE
+Regular,42456201,regular,"envases y empaques",424562,,FALSE,TRUE
+Regular,42456401,regular,"plantaciones agrícolas y forestales",424564,,FALSE,TRUE
+Regular,42456801,regular,"vías de comunicación",424568,,FALSE,TRUE
+Regular,42457201,regular,"minas y canteras",424572,,FALSE,TRUE
+Regular,42458001,regular,"pozos artesianos",424580,,FALSE,TRUE
+Regular,42458401,regular,yacimientos,424584,,FALSE,TRUE
+Regular,42458801,regular,semovientes,424588,,FALSE,TRUE
+Regular,42459901,regular,"ajustes por inflación",424599,,FALSE,TRUE
+Regular,42480501,regular,intangibles,424805,,FALSE,TRUE
+Regular,42481001,regular,"otros activos",424810,,FALSE,TRUE
+Regular,42489901,regular,"ajustes por inflación",424899,,FALSE,TRUE
+Regular,42500501,regular,"deudas malas",425005,,FALSE,TRUE
+Regular,42501001,regular,seguros,425010,,FALSE,TRUE
+Regular,42501501,regular,reclamos,425015,,FALSE,TRUE
+Regular,42502001,regular,"reintegro por personal en comisión",425020,,FALSE,TRUE
+Regular,42502501,regular,"reintegro garantías",425025,,FALSE,TRUE
+Regular,42503001,regular,"descuentos concedidos",425030,,FALSE,TRUE
+Regular,42503501,regular,"de provisiones",425035,,FALSE,TRUE
+Regular,42504001,regular,"gastos bancarios",425040,,FALSE,TRUE
+Regular,42504501,regular,"de depreciación",425045,,FALSE,TRUE
+Regular,42505001,regular,"reintegro de otros costos y gastos",425050,,FALSE,TRUE
+Regular,42509901,regular,"ajustes por inflación",425099,,FALSE,TRUE
+Regular,42550501,regular,"por siniestro",425505,,FALSE,TRUE
+Regular,42551001,regular,"por suministros",425510,,FALSE,TRUE
+Regular,42551501,regular,"lucro cesante compañías de seguros",425515,,FALSE,TRUE
+Regular,42552001,regular,"daño emergente compañías de seguros",425520,,FALSE,TRUE
+Regular,42552501,regular,"por pérdida de mercancía",425525,,FALSE,TRUE
+Regular,42553001,regular,"por incumplimiento de contratos",425530,,FALSE,TRUE
+Regular,42553501,regular,"de terceros",425535,,FALSE,TRUE
+Regular,42554001,regular,"por incapacidades iss",425540,,FALSE,TRUE
+Regular,42559501,regular,otras,425595,,FALSE,TRUE
+Regular,42559901,regular,"ajustes por inflación",425599,,FALSE,TRUE
+Regular,42609901,regular,"ajustes por inflación",426099,,FALSE,TRUE
+Regular,42659901,regular,"ajustes por inflación",426599,,FALSE,TRUE
+Regular,42759901,regular,"ajustes por inflación",427599,,FALSE,TRUE
+Regular,42950301,regular,cert,429503,,FALSE,TRUE
+Regular,42950501,regular,aprovechamientos,429505,,FALSE,TRUE
+Regular,42950701,regular,auxilios,429507,,FALSE,TRUE
+Regular,42950901,regular,subvenciones,429509,,FALSE,TRUE
+Regular,42951101,regular,"ingresos por investigación y desarrollo",429511,,FALSE,TRUE
+Regular,42951301,regular,"por trabajos ejecutados",429513,,FALSE,TRUE
+Regular,42951501,regular,regalías,429515,,FALSE,TRUE
+Regular,42951701,regular,"derivados de las exportaciones",429517,,FALSE,TRUE
+Regular,42951901,regular,"otros ingresos de explotación",429519,,FALSE,TRUE
+Regular,42952101,regular,"de la actividad ganadera",429521,,FALSE,TRUE
+Regular,42952501,regular,"derechos y licitaciones",429525,,FALSE,TRUE
+Regular,42953001,regular,"ingresos por elementos perdidos",429530,,FALSE,TRUE
+Regular,42953301,regular,"multas y recargos",429533,,FALSE,TRUE
+Regular,42953501,regular,"preavisos descontados",429535,,FALSE,TRUE
+Regular,42953701,regular,reclamos,429537,,FALSE,TRUE
+Regular,42954001,regular,"recobro de daños",429540,,FALSE,TRUE
+Regular,42954301,regular,premios,429543,,FALSE,TRUE
+Regular,42954501,regular,bonificaciones,429545,,FALSE,TRUE
+Regular,42954701,regular,"productos descontados",429547,,FALSE,TRUE
+Regular,42954901,regular,"reconocimientos iss",429549,,FALSE,TRUE
+Regular,42955101,regular,excedentes,429551,,FALSE,TRUE
+Regular,42955301,regular,"sobrantes de caja",429553,,FALSE,TRUE
+Regular,42955501,regular,"sobrantes en liquidación fletes",429555,,FALSE,TRUE
+Regular,42955701,regular,"subsidios estatales",429557,,FALSE,TRUE
+Regular,42955901,regular,"capacitación distribuidores",429559,,FALSE,TRUE
+Regular,42956101,regular,"de escrituración",429561,,FALSE,TRUE
+Regular,42956301,regular,"registro promesas de venta",429563,,FALSE,TRUE
+Regular,42956701,regular,"útiles, papelería y fotocopias",429567,,FALSE,TRUE
+Regular,42957101,regular,"resultados, matrículas y traspasos",429571,,FALSE,TRUE
+Regular,42957301,regular,decoraciones,429573,,FALSE,TRUE
+Regular,42957501,regular,"manejo de carga",429575,,FALSE,TRUE
+Regular,42957901,regular,"historia clínica",429579,,FALSE,TRUE
+Regular,42958101,regular,"ajuste al peso",429581,,FALSE,TRUE
+Regular,42958301,regular,"llamadas telefónicas",429583,,FALSE,TRUE
+Regular,42959501,regular,otros,429595,,FALSE,TRUE
+Regular,42959901,regular,"ajustes por inflación",429599,,FALSE,TRUE
+Regular,47050501,regular,"inversiones (cr)",470505,,FALSE,TRUE
+Regular,47051001,regular,"inventarios (cr)",470510,,FALSE,TRUE
+Regular,47051501,regular,"propiedades, planta y equipo (cr)",470515,,FALSE,TRUE
+Regular,47052001,regular,"intangibles (cr)",470520,,FALSE,TRUE
+Regular,47052501,regular,"activos diferidos",470525,,FALSE,TRUE
+Regular,47053001,regular,"otros activos (cr)",470530,,FALSE,TRUE
+Regular,47053501,regular,"pasivos sujetos de ajuste",470535,,FALSE,TRUE
+Regular,47054001,regular,patrimonio,470540,,FALSE,TRUE
+Regular,47054501,regular,"depreciación acumulada (db)",470545,,FALSE,TRUE
+Regular,47055001,regular,"depreciación diferida (cr)",470550,,FALSE,TRUE
+Regular,47055501,regular,"agotamiento acumulado (db)",470555,,FALSE,TRUE
+Regular,47056001,regular,"amortización acumulada (db)",470560,,FALSE,TRUE
+Regular,47056501,regular,"ingresos operacionales (db)",470565,,FALSE,TRUE
+Regular,47056801,regular,"devoluciones en ventas (cr)",470568,,FALSE,TRUE
+Regular,47057001,regular,"ingresos no operacionales (db)",470570,,FALSE,TRUE
+Regular,47057501,regular,"gastos operacionales de administración (cr)",470575,,FALSE,TRUE
+Regular,47058001,regular,"gastos operacionales de ventas (cr)",470580,,FALSE,TRUE
+Regular,47058501,regular,"gastos no operacionales (cr)",470585,,FALSE,TRUE
+Regular,47059001,regular,"compras (cr)",470590,,FALSE,TRUE
+Regular,47059101,regular,"devoluciones en compras (db)",470591,,FALSE,TRUE
+Regular,47059201,regular,"costo de ventas (cr)",470592,,FALSE,TRUE
+Regular,47059401,regular,"costos de producción o de operación (cr)",470594,,FALSE,TRUE
+Regular,51050301,regular,"salario integral",510503,,FALSE,TRUE
+Regular,51050601,regular,sueldos,510506,,FALSE,TRUE
+Regular,51051201,regular,jornales,510512,,FALSE,TRUE
+Regular,51051501,regular,"horas extras y recargos",510515,,FALSE,TRUE
+Regular,51051801,regular,comisiones,510518,,FALSE,TRUE
+Regular,51052101,regular,viáticos,510521,,FALSE,TRUE
+Regular,51052401,regular,incapacidades,510524,,FALSE,TRUE
+Regular,51052701,regular,"auxilio de transporte",510527,,FALSE,TRUE
+Regular,51053001,regular,cesantías,510530,,FALSE,TRUE
+Regular,51053301,regular,"intereses sobre cesantías",510533,,FALSE,TRUE
+Regular,51053601,regular,"prima de servicios",510536,,FALSE,TRUE
+Regular,51053901,regular,vacaciones,510539,,FALSE,TRUE
+Regular,51054201,regular,"primas extralegales",510542,,FALSE,TRUE
+Regular,51054501,regular,auxilios,510545,,FALSE,TRUE
+Regular,51054801,regular,bonificaciones,510548,,FALSE,TRUE
+Regular,51055101,regular,"dotación y suministro a trabajadores",510551,,FALSE,TRUE
+Regular,51055401,regular,seguros,510554,,FALSE,TRUE
+Regular,51055701,regular,"cuotas partes pensiones de jubilación",510557,,FALSE,TRUE
+Regular,51055801,regular,"amortización cálculo actuarial pensiones de jubilación",510558,,FALSE,TRUE
+Regular,51055901,regular,"pensiones de jubilación",510559,,FALSE,TRUE
+Regular,51056001,regular,"indemnizaciones laborales",510560,,FALSE,TRUE
+Regular,51056101,regular,"amortización bonos pensionales",510561,,FALSE,TRUE
+Regular,51056201,regular,"amortización títulos pensionales",510562,,FALSE,TRUE
+Regular,51056301,regular,"capacitación al personal",510563,,FALSE,TRUE
+Regular,51056601,regular,"gastos deportivos y de recreación",510566,,FALSE,TRUE
+Regular,51056801,regular,"aportes a administradoras de riesgos profesionales, arp",510568,,FALSE,TRUE
+Regular,51056901,regular,"aportes a entidades promotoras de salud, eps",510569,,FALSE,TRUE
+Regular,51057001,regular,"aportes a fondos de pensiones y/o cesantías",510570,,FALSE,TRUE
+Regular,51057201,regular,"aportes cajas de compensación familiar",510572,,FALSE,TRUE
+Regular,51057501,regular,"aportes icbf",510575,,FALSE,TRUE
+Regular,51057801,regular,sena,510578,,FALSE,TRUE
+Regular,51058101,regular,"aportes sindicales",510581,,FALSE,TRUE
+Regular,51058401,regular,"gastos médicos y drogas",510584,,FALSE,TRUE
+Regular,51059501,regular,otros,510595,,FALSE,TRUE
+Regular,51059901,regular,"ajustes por inflación",510599,,FALSE,TRUE
+Regular,51100501,regular,"junta directiva",511005,,FALSE,TRUE
+Regular,51101001,regular,"revisoría fiscal",511010,,FALSE,TRUE
+Regular,51101501,regular,"auditoría externa",511015,,FALSE,TRUE
+Regular,51102001,regular,avalúos,511020,,FALSE,TRUE
+Regular,51102501,regular,"asesoría jurídica",511025,,FALSE,TRUE
+Regular,51103001,regular,"asesoría financiera",511030,,FALSE,TRUE
+Regular,51103501,regular,"asesoría técnica",511035,,FALSE,TRUE
+Regular,51109501,regular,otros,511095,,FALSE,TRUE
+Regular,51109901,regular,"ajustes por inflación",511099,,FALSE,TRUE
+Regular,51150501,regular,"industria y comercio",511505,,FALSE,TRUE
+Regular,51151001,regular,"de timbres",511510,,FALSE,TRUE
+Regular,51151501,regular,"a la propiedad raíz",511515,,FALSE,TRUE
+Regular,51152001,regular,"derechos sobre instrumentos públicos",511520,,FALSE,TRUE
+Regular,51152501,regular,"de valorización",511525,,FALSE,TRUE
+Regular,51153001,regular,"de turismo",511530,,FALSE,TRUE
+Regular,51153501,regular,"tasa por utilización de puertos",511535,,FALSE,TRUE
+Regular,51154001,regular,"de vehículos",511540,,FALSE,TRUE
+Regular,51154501,regular,"de espectáculos públicos",511545,,FALSE,TRUE
+Regular,51155001,regular,"cuotas de fomento",511550,,FALSE,TRUE
+Regular,51157001,regular,"iva descontable",511570,,FALSE,TRUE
+Regular,51159501,regular,otros,511595,,FALSE,TRUE
+Regular,51159901,regular,"ajustes por inflación",511599,,FALSE,TRUE
+Regular,51200501,regular,terrenos,512005,,FALSE,TRUE
+Regular,51201001,regular,"construcciones y edificaciones",512010,,FALSE,TRUE
+Regular,51201501,regular,"maquinaria y equipo",512015,,FALSE,TRUE
+Regular,51202001,regular,"equipo de oficina",512020,,FALSE,TRUE
+Regular,51202501,regular,"equipo de computación y comunicación",512025,,FALSE,TRUE
+Regular,51203001,regular,"equipo médico-científico",512030,,FALSE,TRUE
+Regular,51203501,regular,"equipo de hoteles y restaurantes",512035,,FALSE,TRUE
+Regular,51204001,regular,"flota y equipo de transporte",512040,,FALSE,TRUE
+Regular,51204501,regular,"flota y equipo fluvial y/o marítimo",512045,,FALSE,TRUE
+Regular,51205001,regular,"flota y equipo aéreo",512050,,FALSE,TRUE
+Regular,51205501,regular,"flota y equipo férreo",512055,,FALSE,TRUE
+Regular,51206001,regular,"acueductos, plantas y redes",512060,,FALSE,TRUE
+Regular,51206501,regular,aeródromos,512065,,FALSE,TRUE
+Regular,51207001,regular,semovientes,512070,,FALSE,TRUE
+Regular,51209501,regular,otros,512095,,FALSE,TRUE
+Regular,51209901,regular,"ajustes por inflación",512099,,FALSE,TRUE
+Regular,51250501,regular,contribuciones,512505,,FALSE,TRUE
+Regular,51251001,regular,"afiliaciones y sostenimiento",512510,,FALSE,TRUE
+Regular,51259901,regular,"ajustes por inflación",512599,,FALSE,TRUE
+Regular,51300501,regular,manejo,513005,,FALSE,TRUE
+Regular,51301001,regular,cumplimiento,513010,,FALSE,TRUE
+Regular,51301501,regular,"corriente débil",513015,,FALSE,TRUE
+Regular,51302001,regular,"vida colectiva",513020,,FALSE,TRUE
+Regular,51302501,regular,incendio,513025,,FALSE,TRUE
+Regular,51303001,regular,terremoto,513030,,FALSE,TRUE
+Regular,51303501,regular,"sustracción y hurto",513035,,FALSE,TRUE
+Regular,51304001,regular,"flota y equipo de transporte",513040,,FALSE,TRUE
+Regular,51304501,regular,"flota y equipo fluvial y/o marítimo",513045,,FALSE,TRUE
+Regular,51305001,regular,"flota y equipo aéreo",513050,,FALSE,TRUE
+Regular,51305501,regular,"flota y equipo férreo",513055,,FALSE,TRUE
+Regular,51306001,regular,"responsabilidad civil y extracontractual",513060,,FALSE,TRUE
+Regular,51306501,regular,vuelo,513065,,FALSE,TRUE
+Regular,51307001,regular,"rotura de maquinaria",513070,,FALSE,TRUE
+Regular,51307501,regular,"obligatorio accidente de tránsito",513075,,FALSE,TRUE
+Regular,51308001,regular,"lucro cesante",513080,,FALSE,TRUE
+Regular,51308501,regular,"transporte de mercancía",513085,,FALSE,TRUE
+Regular,51309501,regular,otros,513095,,FALSE,TRUE
+Regular,51309901,regular,"ajustes por inflación",513099,,FALSE,TRUE
+Regular,51350501,regular,"aseo y vigilancia",513505,,FALSE,TRUE
+Regular,51351001,regular,temporales,513510,,FALSE,TRUE
+Regular,51351501,regular,"asistencia técnica",513515,,FALSE,TRUE
+Regular,51352001,regular,"procesamiento electrónico de datos",513520,,FALSE,TRUE
+Regular,51352501,regular,"acueducto y alcantarillado",513525,,FALSE,TRUE
+Regular,51353001,regular,"energía eléctrica",513530,,FALSE,TRUE
+Regular,51353501,regular,teléfono,513535,,FALSE,TRUE
+Regular,51354001,regular,"correo, portes y telegramas",513540,,FALSE,TRUE
+Regular,51354501,regular,"fax y télex",513545,,FALSE,TRUE
+Regular,51355001,regular,"transporte, fletes y acarreos",513550,,FALSE,TRUE
+Regular,51355501,regular,gas,513555,,FALSE,TRUE
+Regular,51359501,regular,otros,513595,,FALSE,TRUE
+Regular,51359901,regular,"ajustes por inflación",513599,,FALSE,TRUE
+Regular,51400501,regular,notariales,514005,,FALSE,TRUE
+Regular,51401001,regular,"registro mercantil",514010,,FALSE,TRUE
+Regular,51401501,regular,"trámites y licencias",514015,,FALSE,TRUE
+Regular,51402001,regular,aduaneros,514020,,FALSE,TRUE
+Regular,51402501,regular,consulares,514025,,FALSE,TRUE
+Regular,51409501,regular,otros,514095,,FALSE,TRUE
+Regular,51409901,regular,"ajustes por inflación",514099,,FALSE,TRUE
+Regular,51450501,regular,terrenos,514505,,FALSE,TRUE
+Regular,51451001,regular,"construcciones y edificaciones",514510,,FALSE,TRUE
+Regular,51451501,regular,"maquinaria y equipo",514515,,FALSE,TRUE
+Regular,51452001,regular,"equipo de oficina",514520,,FALSE,TRUE
+Regular,51452501,regular,"equipo de computación y comunicación",514525,,FALSE,TRUE
+Regular,51453001,regular,"equipo médico-científico",514530,,FALSE,TRUE
+Regular,51453501,regular,"equipo de hoteles y restaurantes",514535,,FALSE,TRUE
+Regular,51454001,regular,"flota y equipo de transporte",514540,,FALSE,TRUE
+Regular,51454501,regular,"flota y equipo fluvial y/o marítimo",514545,,FALSE,TRUE
+Regular,51455001,regular,"flota y equipo aéreo",514550,,FALSE,TRUE
+Regular,51455501,regular,"flota y equipo férreo",514555,,FALSE,TRUE
+Regular,51456001,regular,"acueductos, plantas y redes",514560,,FALSE,TRUE
+Regular,51456501,regular,"armamento de vigilancia",514565,,FALSE,TRUE
+Regular,51457001,regular,"vías de comunicación",514570,,FALSE,TRUE
+Regular,51459901,regular,"ajustes por inflación",514599,,FALSE,TRUE
+Regular,51500501,regular,"instalaciones eléctricas",515005,,FALSE,TRUE
+Regular,51501001,regular,"arreglos ornamentales",515010,,FALSE,TRUE
+Regular,51501501,regular,"reparaciones locativas",515015,,FALSE,TRUE
+Regular,51509501,regular,otros,515095,,FALSE,TRUE
+Regular,51509901,regular,"ajustes por inflación",515099,,FALSE,TRUE
+Regular,51550501,regular,"alojamiento y manutención",515505,,FALSE,TRUE
+Regular,51551001,regular,"pasajes fluviales y/o marítimos",515510,,FALSE,TRUE
+Regular,51551501,regular,"pasajes aéreos",515515,,FALSE,TRUE
+Regular,51552001,regular,"pasajes terrestres",515520,,FALSE,TRUE
+Regular,51552501,regular,"pasajes férreos",515525,,FALSE,TRUE
+Regular,51559501,regular,otros,515595,,FALSE,TRUE
+Regular,51559901,regular,"ajustes por inflación",515599,,FALSE,TRUE
+Regular,51600501,regular,"construcciones y edificaciones",516005,,FALSE,TRUE
+Regular,51601001,regular,"maquinaria y equipo",516010,,FALSE,TRUE
+Regular,51601501,regular,"equipo de oficina",516015,,FALSE,TRUE
+Regular,51602001,regular,"equipo de computación y comunicación",516020,,FALSE,TRUE
+Regular,51602501,regular,"equipo médico-científico",516025,,FALSE,TRUE
+Regular,51603001,regular,"equipo de hoteles y restaurantes",516030,,FALSE,TRUE
+Regular,51603501,regular,"flota y equipo de transporte",516035,,FALSE,TRUE
+Regular,51604001,regular,"flota y equipo fluvial y/o marítimo",516040,,FALSE,TRUE
+Regular,51604501,regular,"flota y equipo aéreo",516045,,FALSE,TRUE
+Regular,51605001,regular,"flota y equipo férreo",516050,,FALSE,TRUE
+Regular,51605501,regular,"acueductos, plantas y redes",516055,,FALSE,TRUE
+Regular,51606001,regular,"armamento de vigilancia",516060,,FALSE,TRUE
+Regular,51609901,regular,"ajustes por inflación",516099,,FALSE,TRUE
+Regular,51650501,regular,"vías de comunicación",516505,,FALSE,TRUE
+Regular,51651001,regular,intangibles,516510,,FALSE,TRUE
+Regular,51651501,regular,"cargos diferidos",516515,,FALSE,TRUE
+Regular,51659501,regular,otras,516595,,FALSE,TRUE
+Regular,51659901,regular,"ajustes por inflación",516599,,FALSE,TRUE
+Regular,51950501,regular,comisiones,519505,,FALSE,TRUE
+Regular,51951001,regular,"libros, suscripciones, periódicos y revistas",519510,,FALSE,TRUE
+Regular,51951501,regular,"música ambiental",519515,,FALSE,TRUE
+Regular,51952001,regular,"gastos de representación y relaciones públicas",519520,,FALSE,TRUE
+Regular,51952501,regular,"elementos de aseo y cafetería",519525,,FALSE,TRUE
+Regular,51953001,regular,"útiles, papelería y fotocopias",519530,,FALSE,TRUE
+Regular,51953501,regular,"combustibles y lubricantes",519535,,FALSE,TRUE
+Regular,51954001,regular,"envases y empaques",519540,,FALSE,TRUE
+Regular,51954501,regular,"taxis y buses",519545,,FALSE,TRUE
+Regular,51955001,regular,estampillas,519550,,FALSE,TRUE
+Regular,51955501,regular,microfilmación,519555,,FALSE,TRUE
+Regular,51956001,regular,"casino y restaurante",519560,,FALSE,TRUE
+Regular,51956501,regular,parqueaderos,519565,,FALSE,TRUE
+Regular,51957001,regular,"indemnización por daños a terceros",519570,,FALSE,TRUE
+Regular,51957501,regular,"pólvora y similares",519575,,FALSE,TRUE
+Regular,51959501,regular,otros,519595,,FALSE,TRUE
+Regular,51959901,regular,"ajustes por inflación",519599,,FALSE,TRUE
+Regular,51990501,regular,inversiones,519905,,FALSE,TRUE
+Regular,51991001,regular,deudores,519910,,FALSE,TRUE
+Regular,51991501,regular,"propiedades, planta y equipo",519915,,FALSE,TRUE
+Regular,51999501,regular,"otros activos",519995,,FALSE,TRUE
+Regular,51999901,regular,"ajustes por inflación",519999,,FALSE,TRUE
+Regular,52050301,regular,"salario integral",520503,,FALSE,TRUE
+Regular,52050601,regular,sueldos,520506,,FALSE,TRUE
+Regular,52051201,regular,jornales,520512,,FALSE,TRUE
+Regular,52051501,regular,"horas extras y recargos",520515,,FALSE,TRUE
+Regular,52051801,regular,comisiones,520518,,FALSE,TRUE
+Regular,52052101,regular,viáticos,520521,,FALSE,TRUE
+Regular,52052401,regular,incapacidades,520524,,FALSE,TRUE
+Regular,52052701,regular,"auxilio de transporte",520527,,FALSE,TRUE
+Regular,52053001,regular,cesantías,520530,,FALSE,TRUE
+Regular,52053301,regular,"intereses sobre cesantías",520533,,FALSE,TRUE
+Regular,52053601,regular,"prima de servicios",520536,,FALSE,TRUE
+Regular,52053901,regular,vacaciones,520539,,FALSE,TRUE
+Regular,52054201,regular,"primas extralegales",520542,,FALSE,TRUE
+Regular,52054501,regular,auxilios,520545,,FALSE,TRUE
+Regular,52054801,regular,bonificaciones,520548,,FALSE,TRUE
+Regular,52055101,regular,"dotación y suministro a trabajadores",520551,,FALSE,TRUE
+Regular,52055401,regular,seguros,520554,,FALSE,TRUE
+Regular,52055701,regular,"cuotas partes pensiones de jubilación",520557,,FALSE,TRUE
+Regular,52055801,regular,"amortización cálculo actuarial pensiones de jubilación",520558,,FALSE,TRUE
+Regular,52055901,regular,"pensiones de jubilación",520559,,FALSE,TRUE
+Regular,52056001,regular,"indemnizaciones laborales",520560,,FALSE,TRUE
+Regular,52056101,regular,"amortización bonos pensionales",520561,,FALSE,TRUE
+Regular,52056201,regular,"amortización títulos pensionales",520562,,FALSE,TRUE
+Regular,52056301,regular,"capacitación al personal",520563,,FALSE,TRUE
+Regular,52056601,regular,"gastos deportivos y de recreación",520566,,FALSE,TRUE
+Regular,52056801,regular,"aportes a administradoras de riesgos profesionales, arp",520568,,FALSE,TRUE
+Regular,52056901,regular,"aportes a entidades promotoras de salud, eps",520569,,FALSE,TRUE
+Regular,52057001,regular,"aportes a fondos de pensiones y/o cesantías",520570,,FALSE,TRUE
+Regular,52057201,regular,"aportes cajas de compensación familiar",520572,,FALSE,TRUE
+Regular,52057501,regular,"aportes icbf",520575,,FALSE,TRUE
+Regular,52057801,regular,sena,520578,,FALSE,TRUE
+Regular,52058101,regular,"aportes sindicales",520581,,FALSE,TRUE
+Regular,52058401,regular,"gastos médicos y drogas",520584,,FALSE,TRUE
+Regular,52059501,regular,otros,520595,,FALSE,TRUE
+Regular,52059901,regular,"ajustes por inflación",520599,,FALSE,TRUE
+Regular,52100501,regular,"junta directiva",521005,,FALSE,TRUE
+Regular,52101001,regular,"revisoría fiscal",521010,,FALSE,TRUE
+Regular,52101501,regular,"auditoría externa",521015,,FALSE,TRUE
+Regular,52102001,regular,avalúos,521020,,FALSE,TRUE
+Regular,52102501,regular,"asesoría jurídica",521025,,FALSE,TRUE
+Regular,52103001,regular,"asesoría financiera",521030,,FALSE,TRUE
+Regular,52103501,regular,"asesoría técnica",521035,,FALSE,TRUE
+Regular,52109501,regular,otros,521095,,FALSE,TRUE
+Regular,52109901,regular,"ajustes por inflación",521099,,FALSE,TRUE
+Regular,52150501,regular,"industria y comercio",521505,,FALSE,TRUE
+Regular,52151001,regular,"de timbres",521510,,FALSE,TRUE
+Regular,52151501,regular,"a la propiedad raíz",521515,,FALSE,TRUE
+Regular,52152001,regular,"derechos sobre instrumentos públicos",521520,,FALSE,TRUE
+Regular,52152501,regular,"de valorización",521525,,FALSE,TRUE
+Regular,52153001,regular,"de turismo",521530,,FALSE,TRUE
+Regular,52153501,regular,"tasa por utilización de puertos",521535,,FALSE,TRUE
+Regular,52154001,regular,"de vehículos",521540,,FALSE,TRUE
+Regular,52154501,regular,"de espectáculos públicos",521545,,FALSE,TRUE
+Regular,52155001,regular,"cuotas de fomento",521550,,FALSE,TRUE
+Regular,52155501,regular,licores,521555,,FALSE,TRUE
+Regular,52156001,regular,cervezas,521560,,FALSE,TRUE
+Regular,52156501,regular,cigarrillos,521565,,FALSE,TRUE
+Regular,52157001,regular,"iva descontable",521570,,FALSE,TRUE
+Regular,52159501,regular,otros,521595,,FALSE,TRUE
+Regular,52159901,regular,"ajustes por inflación",521599,,FALSE,TRUE
+Regular,52200501,regular,terrenos,522005,,FALSE,TRUE
+Regular,52201001,regular,"construcciones y edificaciones",522010,,FALSE,TRUE
+Regular,52201501,regular,"maquinaria y equipo",522015,,FALSE,TRUE
+Regular,52202001,regular,"equipo de oficina",522020,,FALSE,TRUE
+Regular,52202501,regular,"equipo de computación y comunicación",522025,,FALSE,TRUE
+Regular,52203001,regular,"equipo médico-científico",522030,,FALSE,TRUE
+Regular,52203501,regular,"equipo de hoteles y restaurantes",522035,,FALSE,TRUE
+Regular,52204001,regular,"flota y equipo de transporte",522040,,FALSE,TRUE
+Regular,52204501,regular,"flota y equipo fluvial y/o marítimo",522045,,FALSE,TRUE
+Regular,52205001,regular,"flota y equipo aéreo",522050,,FALSE,TRUE
+Regular,52205501,regular,"flota y equipo férreo",522055,,FALSE,TRUE
+Regular,52206001,regular,"acueductos, plantas y redes",522060,,FALSE,TRUE
+Regular,52206501,regular,aeródromos,522065,,FALSE,TRUE
+Regular,52207001,regular,semovientes,522070,,FALSE,TRUE
+Regular,52209501,regular,otros,522095,,FALSE,TRUE
+Regular,52209901,regular,"ajustes por inflación",522099,,FALSE,TRUE
+Regular,52250501,regular,contribuciones,522505,,FALSE,TRUE
+Regular,52251001,regular,"afiliaciones y sostenimiento",522510,,FALSE,TRUE
+Regular,52259901,regular,"ajustes por inflación",522599,,FALSE,TRUE
+Regular,52300501,regular,manejo,523005,,FALSE,TRUE
+Regular,52301001,regular,cumplimiento,523010,,FALSE,TRUE
+Regular,52301501,regular,"corriente débil",523015,,FALSE,TRUE
+Regular,52302001,regular,"vida colectiva",523020,,FALSE,TRUE
+Regular,52302501,regular,incendio,523025,,FALSE,TRUE
+Regular,52303001,regular,terremoto,523030,,FALSE,TRUE
+Regular,52303501,regular,"sustracción y hurto",523035,,FALSE,TRUE
+Regular,52304001,regular,"flota y equipo de transporte",523040,,FALSE,TRUE
+Regular,52304501,regular,"flota y equipo fluvial y/o marítimo",523045,,FALSE,TRUE
+Regular,52305001,regular,"flota y equipo aéreo",523050,,FALSE,TRUE
+Regular,52305501,regular,"flota y equipo férreo",523055,,FALSE,TRUE
+Regular,52306001,regular,"responsabilidad civil y extracontractual",523060,,FALSE,TRUE
+Regular,52306501,regular,vuelo,523065,,FALSE,TRUE
+Regular,52307001,regular,"rotura de maquinaria",523070,,FALSE,TRUE
+Regular,52307501,regular,"obligatorio accidente de tránsito",523075,,FALSE,TRUE
+Regular,52308001,regular,"lucro cesante",523080,,FALSE,TRUE
+Regular,52309501,regular,otros,523095,,FALSE,TRUE
+Regular,52309901,regular,"ajustes por inflación",523099,,FALSE,TRUE
+Regular,52350501,regular,"aseo y vigilancia",523505,,FALSE,TRUE
+Regular,52351001,regular,temporales,523510,,FALSE,TRUE
+Regular,52351501,regular,"asistencia técnica",523515,,FALSE,TRUE
+Regular,52352001,regular,"procesamiento electrónico de datos",523520,,FALSE,TRUE
+Regular,52352501,regular,"acueducto y alcantarillado",523525,,FALSE,TRUE
+Regular,52353001,regular,"energía eléctrica",523530,,FALSE,TRUE
+Regular,52353501,regular,teléfono,523535,,FALSE,TRUE
+Regular,52354001,regular,"correo, portes y telegramas",523540,,FALSE,TRUE
+Regular,52354501,regular,"fax y télex",523545,,FALSE,TRUE
+Regular,52355001,regular,"transporte, fletes y acarreos",523550,,FALSE,TRUE
+Regular,52355501,regular,gas,523555,,FALSE,TRUE
+Regular,52356001,regular,"publicidad, propaganda y promoción",523560,,FALSE,TRUE
+Regular,52359501,regular,otros,523595,,FALSE,TRUE
+Regular,52359901,regular,"ajustes por inflación",523599,,FALSE,TRUE
+Regular,52400501,regular,notariales,524005,,FALSE,TRUE
+Regular,52401001,regular,"registro mercantil",524010,,FALSE,TRUE
+Regular,52401501,regular,"trámites y licencias",524015,,FALSE,TRUE
+Regular,52402001,regular,aduaneros,524020,,FALSE,TRUE
+Regular,52402501,regular,consulares,524025,,FALSE,TRUE
+Regular,52409501,regular,otros,524095,,FALSE,TRUE
+Regular,52409901,regular,"ajustes por inflación",524099,,FALSE,TRUE
+Regular,52450501,regular,terrenos,524505,,FALSE,TRUE
+Regular,52451001,regular,"construcciones y edificaciones",524510,,FALSE,TRUE
+Regular,52451501,regular,"maquinaria y equipo",524515,,FALSE,TRUE
+Regular,52452001,regular,"equipo de oficina",524520,,FALSE,TRUE
+Regular,52452501,regular,"equipo de computación y comunicación",524525,,FALSE,TRUE
+Regular,52453001,regular,"equipo médico-científico",524530,,FALSE,TRUE
+Regular,52453501,regular,"equipo de hoteles y restaurantes",524535,,FALSE,TRUE
+Regular,52454001,regular,"flota y equipo de transporte",524540,,FALSE,TRUE
+Regular,52454501,regular,"flota y equipo fluvial y/o marítimo",524545,,FALSE,TRUE
+Regular,52455001,regular,"flota y equipo aéreo",524550,,FALSE,TRUE
+Regular,52455501,regular,"flota y equipo férreo",524555,,FALSE,TRUE
+Regular,52456001,regular,"acueductos, plantas y redes",524560,,FALSE,TRUE
+Regular,52456501,regular,"armamento de vigilancia",524565,,FALSE,TRUE
+Regular,52457001,regular,"vías de comunicación",524570,,FALSE,TRUE
+Regular,52459901,regular,"ajustes por inflación",524599,,FALSE,TRUE
+Regular,52500501,regular,"instalaciones eléctricas",525005,,FALSE,TRUE
+Regular,52501001,regular,"arreglos ornamentales",525010,,FALSE,TRUE
+Regular,52501501,regular,"reparaciones locativas",525015,,FALSE,TRUE
+Regular,52509501,regular,otros,525095,,FALSE,TRUE
+Regular,52509901,regular,"ajustes por inflación",525099,,FALSE,TRUE
+Regular,52550501,regular,"alojamiento y manutención",525505,,FALSE,TRUE
+Regular,52551001,regular,"pasajes fluviales y/o marítimos",525510,,FALSE,TRUE
+Regular,52551501,regular,"pasajes aéreos",525515,,FALSE,TRUE
+Regular,52552001,regular,"pasajes terrestres",525520,,FALSE,TRUE
+Regular,52552501,regular,"pasajes férreos",525525,,FALSE,TRUE
+Regular,52559501,regular,otros,525595,,FALSE,TRUE
+Regular,52559901,regular,"ajustes por inflación",525599,,FALSE,TRUE
+Regular,52600501,regular,"construcciones y edificaciones",526005,,FALSE,TRUE
+Regular,52601001,regular,"maquinaria y equipo",526010,,FALSE,TRUE
+Regular,52601501,regular,"equipo de oficina",526015,,FALSE,TRUE
+Regular,52602001,regular,"equipo de computación y comunicación",526020,,FALSE,TRUE
+Regular,52602501,regular,"equipo médico-científico",526025,,FALSE,TRUE
+Regular,52603001,regular,"equipo de hoteles y restaurantes",526030,,FALSE,TRUE
+Regular,52603501,regular,"flota y equipo de transporte",526035,,FALSE,TRUE
+Regular,52604001,regular,"flota y equipo fluvial y/o marítimo",526040,,FALSE,TRUE
+Regular,52604501,regular,"flota y equipo aéreo",526045,,FALSE,TRUE
+Regular,52605001,regular,"flota y equipo férreo",526050,,FALSE,TRUE
+Regular,52605501,regular,"acueductos, plantas y redes",526055,,FALSE,TRUE
+Regular,52606001,regular,"armamento de vigilancia",526060,,FALSE,TRUE
+Regular,52606501,regular,"envases y empaques",526065,,FALSE,TRUE
+Regular,52609901,regular,"ajustes por inflación",526099,,FALSE,TRUE
+Regular,52650501,regular,"vías de comunicación",526505,,FALSE,TRUE
+Regular,52651001,regular,intangibles,526510,,FALSE,TRUE
+Regular,52651501,regular,"cargos diferidos",526515,,FALSE,TRUE
+Regular,52659501,regular,otras,526595,,FALSE,TRUE
+Regular,52659901,regular,"ajustes por inflación",526599,,FALSE,TRUE
+Regular,52709901,regular,"ajustes por inflación",527099,,FALSE,TRUE
+Regular,52750501,regular,"de sociedades anónimas y/o asimiladas",527505,,FALSE,TRUE
+Regular,52751001,regular,"de sociedades limitadas y/o asimiladas",527510,,FALSE,TRUE
+Regular,52950501,regular,comisiones,529505,,FALSE,TRUE
+Regular,52951001,regular,"libros, suscripciones, periódicos y revistas",529510,,FALSE,TRUE
+Regular,52951501,regular,"música ambiental",529515,,FALSE,TRUE
+Regular,52952001,regular,"gastos de representación y relaciones públicas",529520,,FALSE,TRUE
+Regular,52952501,regular,"elementos de aseo y cafetería",529525,,FALSE,TRUE
+Regular,52953001,regular,"útiles, papelería y fotocopias",529530,,FALSE,TRUE
+Regular,52953501,regular,"combustibles y lubricantes",529535,,FALSE,TRUE
+Regular,52954001,regular,"envases y empaques",529540,,FALSE,TRUE
+Regular,52954501,regular,"taxis y buses",529545,,FALSE,TRUE
+Regular,52955001,regular,estampillas,529550,,FALSE,TRUE
+Regular,52955501,regular,microfilmación,529555,,FALSE,TRUE
+Regular,52956001,regular,"casino y restaurante",529560,,FALSE,TRUE
+Regular,52956501,regular,parqueaderos,529565,,FALSE,TRUE
+Regular,52957001,regular,"indemnización por daños a terceros",529570,,FALSE,TRUE
+Regular,52957501,regular,"pólvora y similares",529575,,FALSE,TRUE
+Regular,52959501,regular,otros,529595,,FALSE,TRUE
+Regular,52959901,regular,"ajustes por inflación",529599,,FALSE,TRUE
+Regular,52990501,regular,inversiones,529905,,FALSE,TRUE
+Regular,52991001,regular,deudores,529910,,FALSE,TRUE
+Regular,52991501,regular,inventarios,529915,,FALSE,TRUE
+Regular,52992001,regular,"propiedades, planta y equipo",529920,,FALSE,TRUE
+Regular,52999501,regular,"otros activos",529995,,FALSE,TRUE
+Regular,52999901,regular,"ajustes por inflación",529999,,FALSE,TRUE
+Regular,53050501,regular,"gastos bancarios",530505,,FALSE,TRUE
+Regular,53051001,regular,"reajuste monetario-upac (hoy uvr)",530510,,FALSE,TRUE
+Regular,53051501,regular,comisiones,530515,,FALSE,TRUE
+Regular,53052001,regular,intereses,530520,,FALSE,TRUE
+Regular,53052501,regular,"diferencia en cambio",530525,,FALSE,TRUE
+Regular,53053001,regular,"gastos en negociación certificados de cambio",530530,,FALSE,TRUE
+Regular,53053501,regular,"descuentos comerciales condicionados",530535,,FALSE,TRUE
+Regular,53054001,regular,"gastos manejo y emisión de bonos",530540,,FALSE,TRUE
+Regular,53054501,regular,"prima amortizada",530545,,FALSE,TRUE
+Regular,53059501,regular,otros,530595,,FALSE,TRUE
+Regular,53059901,regular,"ajustes por inflación",530599,,FALSE,TRUE
+Regular,53100501,regular,"venta de inversiones",531005,,FALSE,TRUE
+Regular,53101001,regular,"venta de cartera",531010,,FALSE,TRUE
+Regular,53101501,regular,"venta de propiedades, planta y equipo",531015,,FALSE,TRUE
+Regular,53102001,regular,"venta de intangibles",531020,,FALSE,TRUE
+Regular,53102501,regular,"venta de otros activos",531025,,FALSE,TRUE
+Regular,53103001,regular,"retiro de propiedades, planta y equipo",531030,,FALSE,TRUE
+Regular,53103501,regular,"retiro de otros activos",531035,,FALSE,TRUE
+Regular,53104001,regular,"pérdidas por siniestros",531040,,FALSE,TRUE
+Regular,53109501,regular,otros,531095,,FALSE,TRUE
+Regular,53109901,regular,"ajustes por inflación",531099,,FALSE,TRUE
+Regular,53130501,regular,"de sociedades anónimas y/o asimiladas",531305,,FALSE,TRUE
+Regular,53131001,regular,"de sociedades limitadas y/o asimiladas",531310,,FALSE,TRUE
+Regular,53150501,regular,"costas y procesos judiciales",531505,,FALSE,TRUE
+Regular,53151001,regular,"actividades culturales y cívicas",531510,,FALSE,TRUE
+Regular,53151501,regular,"costos y gastos de ejercicios anteriores",531515,,FALSE,TRUE
+Regular,53152001,regular,"impuestos asumidos",531520,,FALSE,TRUE
+Regular,53159501,regular,otros,531595,,FALSE,TRUE
+Regular,53159901,regular,"ajustes por inflación",531599,,FALSE,TRUE
+Regular,53950501,regular,"demandas laborales",539505,,FALSE,TRUE
+Regular,53951001,regular,"demandas por incumplimiento de contratos",539510,,FALSE,TRUE
+Regular,53951501,regular,indemnizaciones,539515,,FALSE,TRUE
+Regular,53952001,regular,"multas, sanciones y litigios",539520,,FALSE,TRUE
+Regular,53952501,regular,donaciones,539525,,FALSE,TRUE
+Regular,53953001,regular,"constitución de garantías",539530,,FALSE,TRUE
+Regular,53953501,regular,"amortización de bienes entregados en comodato",539535,,FALSE,TRUE
+Regular,53959501,regular,otros,539595,,FALSE,TRUE
+Regular,53959901,regular,"ajustes por inflación",539599,,FALSE,TRUE
+Regular,54050501,regular,"impuesto de renta y complementarios",540505,,FALSE,TRUE
+Regular,59050501,regular,"ganancias y pérdidas",590505,,FALSE,TRUE
+Regular,61050501,regular,"cultivo de cereales",610505,,FALSE,TRUE
+Regular,61051001,regular,"cultivos de hortalizas, legumbres y plantas ornamentales",610510,,FALSE,TRUE
+Regular,61051501,regular,"cultivos de frutas, nueces y plantas aromáticas",610515,,FALSE,TRUE
+Regular,61052001,regular,"cultivo de café",610520,,FALSE,TRUE
+Regular,61052501,regular,"cultivo de flores",610525,,FALSE,TRUE
+Regular,61053001,regular,"cultivo de caña de azúcar",610530,,FALSE,TRUE
+Regular,61053501,regular,"cultivo de algodón y plantas para material textil",610535,,FALSE,TRUE
+Regular,61054001,regular,"cultivo de banano",610540,,FALSE,TRUE
+Regular,61054501,regular,"otros cultivos agrícolas",610545,,FALSE,TRUE
+Regular,61055001,regular,"cría de ovejas, cabras, asnos, mulas y burdéganos",610550,,FALSE,TRUE
+Regular,61055501,regular,"cría de ganado caballar y vacuno",610555,,FALSE,TRUE
+Regular,61056001,regular,"producción avícola",610560,,FALSE,TRUE
+Regular,61056501,regular,"cría de otros animales",610565,,FALSE,TRUE
+Regular,61057001,regular,"servicios agrícolas y ganaderos",610570,,FALSE,TRUE
+Regular,61057501,regular,"actividad de caza",610575,,FALSE,TRUE
+Regular,61058001,regular,"actividad de silvicultura",610580,,FALSE,TRUE
+Regular,61059501,regular,"actividades conexas",610595,,FALSE,TRUE
+Regular,61059901,regular,"ajustes por inflación",610599,,FALSE,TRUE
+Regular,61100501,regular,"actividad de pesca",611005,,FALSE,TRUE
+Regular,61101001,regular,"explotación de criaderos de peces",611010,,FALSE,TRUE
+Regular,61109501,regular,"actividades conexas",611095,,FALSE,TRUE
+Regular,61109901,regular,"ajustes por inflación",611099,,FALSE,TRUE
+Regular,61150501,regular,carbón,611505,,FALSE,TRUE
+Regular,61151001,regular,"petróleo crudo",611510,,FALSE,TRUE
+Regular,61151201,regular,"gas natural",611512,,FALSE,TRUE
+Regular,61151401,regular,"servicios relacionados con extracción de petróleo y gas",611514,,FALSE,TRUE
+Regular,61151501,regular,"minerales de hierro",611515,,FALSE,TRUE
+Regular,61152001,regular,"minerales metalíferos no ferrosos",611520,,FALSE,TRUE
+Regular,61152501,regular,"piedra, arena y arcilla",611525,,FALSE,TRUE
+Regular,61152701,regular,"piedras preciosas",611527,,FALSE,TRUE
+Regular,61152801,regular,oro,611528,,FALSE,TRUE
+Regular,61153001,regular,"otras minas y canteras",611530,,FALSE,TRUE
+Regular,61153201,regular,"prestación de servicios sector minero",611532,,FALSE,TRUE
+Regular,61159501,regular,"actividades conexas",611595,,FALSE,TRUE
+Regular,61159901,regular,"ajustes por inflación",611599,,FALSE,TRUE
+Regular,61200101,regular,"producción y procesamiento de carnes y productos cárnicos",612001,,FALSE,TRUE
+Regular,61200201,regular,"productos de pescado",612002,,FALSE,TRUE
+Regular,61200301,regular,"productos de frutas, legumbres y hortalizas",612003,,FALSE,TRUE
+Regular,61200401,regular,"elaboración de aceites y grasas",612004,,FALSE,TRUE
+Regular,61200501,regular,"elaboración de productos lácteos",612005,,FALSE,TRUE
+Regular,61200601,regular,"elaboración de productos de molinería",612006,,FALSE,TRUE
+Regular,61200701,regular,"elaboración de almidones y derivados",612007,,FALSE,TRUE
+Regular,61200801,regular,"elaboración de alimentos para animales",612008,,FALSE,TRUE
+Regular,61200901,regular,"elaboración de productos para panadería",612009,,FALSE,TRUE
+Regular,61201001,regular,"elaboración de azúcar y melazas",612010,,FALSE,TRUE
+Regular,61201101,regular,"elaboración de cacao, chocolate y confitería",612011,,FALSE,TRUE
+Regular,61201201,regular,"elaboración de pastas y productos farináceos",612012,,FALSE,TRUE
+Regular,61201301,regular,"elaboración de productos de café",612013,,FALSE,TRUE
+Regular,61201401,regular,"elaboración de otros productos alimenticios",612014,,FALSE,TRUE
+Regular,61201501,regular,"elaboración de bebidas alcohólicas y alcohol etílico",612015,,FALSE,TRUE
+Regular,61201601,regular,"elaboración de vinos",612016,,FALSE,TRUE
+Regular,61201701,regular,"elaboración de bebidas malteadas y de malta",612017,,FALSE,TRUE
+Regular,61201801,regular,"elaboración de bebidas no alcohólicas",612018,,FALSE,TRUE
+Regular,61201901,regular,"elaboración de productos de tabaco",612019,,FALSE,TRUE
+Regular,61202001,regular,"preparación e hilatura de fibras textiles y tejeduría",612020,,FALSE,TRUE
+Regular,61202101,regular,"acabado de productos textiles",612021,,FALSE,TRUE
+Regular,61202201,regular,"elaboración de artículos de materiales textiles",612022,,FALSE,TRUE
+Regular,61202301,regular,"elaboración de tapices y alfombras",612023,,FALSE,TRUE
+Regular,61202401,regular,"elaboración de cuerdas, cordeles, bramantes y redes",612024,,FALSE,TRUE
+Regular,61202501,regular,"elaboración de otros productos textiles",612025,,FALSE,TRUE
+Regular,61202601,regular,"elaboración de tejidos",612026,,FALSE,TRUE
+Regular,61202701,regular,"elaboración de prendas de vestir",612027,,FALSE,TRUE
+Regular,61202801,regular,"preparación, adobo y teñido de pieles",612028,,FALSE,TRUE
+Regular,61202901,regular,"curtido, adobo o preparación de cuero",612029,,FALSE,TRUE
+Regular,61203001,regular,"elaboración de maletas, bolsos y similares",612030,,FALSE,TRUE
+Regular,61203101,regular,"elaboración de calzado",612031,,FALSE,TRUE
+Regular,61203201,regular,"producción de madera, artículos de madera y corcho",612032,,FALSE,TRUE
+Regular,61203301,regular,"elaboración de pasta y productos de madera, papel y cartón",612033,,FALSE,TRUE
+Regular,61203401,regular,"ediciones y publicaciones",612034,,FALSE,TRUE
+Regular,61203501,regular,impresión,612035,,FALSE,TRUE
+Regular,61203601,regular,"servicios relacionados con la edición y la impresión",612036,,FALSE,TRUE
+Regular,61203701,regular,"reproducción de grabaciones",612037,,FALSE,TRUE
+Regular,61203801,regular,"elaboración de productos de horno de coque",612038,,FALSE,TRUE
+Regular,61203901,regular,"elaboración de productos de la refinación de petróleo",612039,,FALSE,TRUE
+Regular,61204001,regular,"elaboración de sustancias químicas básicas",612040,,FALSE,TRUE
+Regular,61204101,regular,"elaboración de abonos y compuestos de nitrógeno",612041,,FALSE,TRUE
+Regular,61204201,regular,"elaboración de plástico y caucho sintético",612042,,FALSE,TRUE
+Regular,61204301,regular,"elaboración de productos químicos de uso agropecuario",612043,,FALSE,TRUE
+Regular,61204401,regular,"elaboración de pinturas, tintas y masillas",612044,,FALSE,TRUE
+Regular,61204501,regular,"elaboración de productos farmacéuticos y botánicos",612045,,FALSE,TRUE
+Regular,61204601,regular,"elaboración de jabones, detergentes y preparados de tocador",612046,,FALSE,TRUE
+Regular,61204701,regular,"elaboración de otros productos químicos",612047,,FALSE,TRUE
+Regular,61204801,regular,"elaboración de fibras",612048,,FALSE,TRUE
+Regular,61204901,regular,"elaboración de otros productos de caucho",612049,,FALSE,TRUE
+Regular,61205001,regular,"elaboración de productos de plástico",612050,,FALSE,TRUE
+Regular,61205101,regular,"elaboración de vidrio y productos de vidrio",612051,,FALSE,TRUE
+Regular,61205201,regular,"elaboración de productos de cerámica, loza, piedra, arcilla y",612052,,FALSE,TRUE
+Regular,61205301,regular,"elaboración de cemento, cal y yeso",612053,,FALSE,TRUE
+Regular,61205401,regular,"elaboración de artículos de hormigón, cemento y yeso",612054,,FALSE,TRUE
+Regular,61205501,regular,"corte, tallado y acabado de la piedra",612055,,FALSE,TRUE
+Regular,61205601,regular,"elaboración de otros productos minerales no metálicos",612056,,FALSE,TRUE
+Regular,61205701,regular,"industrias básicas y fundición de hierro y acero",612057,,FALSE,TRUE
+Regular,61205801,regular,"productos primarios de metales preciosos y de metales no ferrosos",612058,,FALSE,TRUE
+Regular,61205901,regular,"fundición de metales no ferrosos",612059,,FALSE,TRUE
+Regular,61206001,regular,"fabricación de productos metálicos para uso estructural",612060,,FALSE,TRUE
+Regular,61206101,regular,"forja, prensado, estampado, laminado de metal y pulvimetalurgia",612061,,FALSE,TRUE
+Regular,61206201,regular,"revestimiento de metales y obras de ingeniería mecánica",612062,,FALSE,TRUE
+Regular,61206301,regular,"fabricación de artículos de ferretería",612063,,FALSE,TRUE
+Regular,61206401,regular,"elaboración de otros productos de metal",612064,,FALSE,TRUE
+Regular,61206501,regular,"fabricación de maquinaria y equipo",612065,,FALSE,TRUE
+Regular,61206601,regular,"fabricación de equipos de elevación y manipulación",612066,,FALSE,TRUE
+Regular,61206701,regular,"elaboración de aparatos de uso doméstico",612067,,FALSE,TRUE
+Regular,61206801,regular,"elaboración de equipo de oficina",612068,,FALSE,TRUE
+Regular,61206901,regular,"elaboración de pilas y baterías primarias",612069,,FALSE,TRUE
+Regular,61207001,regular,"elaboración de equipo de iluminación",612070,,FALSE,TRUE
+Regular,61207101,regular,"elaboración de otros tipos de equipo eléctrico",612071,,FALSE,TRUE
+Regular,61207201,regular,"fabricación de equipos de radio, televisión y comunicaciones",612072,,FALSE,TRUE
+Regular,61207301,regular,"fabricación de aparatos e instrumentos médicos",612073,,FALSE,TRUE
+Regular,61207401,regular,"fabricación de instrumentos de medición y control",612074,,FALSE,TRUE
+Regular,61207501,regular,"fabricación de instrumentos de óptica y equipo fotográfico",612075,,FALSE,TRUE
+Regular,61207601,regular,"fabricación de relojes",612076,,FALSE,TRUE
+Regular,61207701,regular,"fabricación de vehículos automotores",612077,,FALSE,TRUE
+Regular,61207801,regular,"fabricación de carrocerías para automotores",612078,,FALSE,TRUE
+Regular,61207901,regular,"fabricación de partes, piezas y accesorios para automotores",612079,,FALSE,TRUE
+Regular,61208001,regular,"fabricación y reparación de buques y otras embarcaciones",612080,,FALSE,TRUE
+Regular,61208101,regular,"fabricación de locomotoras y material rodante para ferrocarriles",612081,,FALSE,TRUE
+Regular,61208201,regular,"fabricación de aeronaves",612082,,FALSE,TRUE
+Regular,61208301,regular,"fabricación de motocicletas",612083,,FALSE,TRUE
+Regular,61208401,regular,"fabricación de bicicletas y sillas de ruedas",612084,,FALSE,TRUE
+Regular,61208501,regular,"fabricación de otros tipos de transporte",612085,,FALSE,TRUE
+Regular,61208601,regular,"fabricación de muebles",612086,,FALSE,TRUE
+Regular,61208701,regular,"fabricación de joyas y artículos conexos",612087,,FALSE,TRUE
+Regular,61208801,regular,"fabricación de instrumentos de música",612088,,FALSE,TRUE
+Regular,61208901,regular,"fabricación de artículos y equipo para deporte",612089,,FALSE,TRUE
+Regular,61209001,regular,"fabricación de juegos y juguetes",612090,,FALSE,TRUE
+Regular,61209101,regular,"reciclamiento de desperdicios",612091,,FALSE,TRUE
+Regular,61209501,regular,"productos de otras industrias manufactureras",612095,,FALSE,TRUE
+Regular,61209901,regular,"ajustes por inflación",612099,,FALSE,TRUE
+Regular,61250501,regular,"generación, captación y distribución de energía eléctrica",612505,,FALSE,TRUE
+Regular,61251001,regular,"fabricación de gas y distribución de combustibles gaseosos",612510,,FALSE,TRUE
+Regular,61251501,regular,"captación, depuración y distribución de agua",612515,,FALSE,TRUE
+Regular,61259501,regular,"actividades conexas",612595,,FALSE,TRUE
+Regular,61259901,regular,"ajustes por inflación",612599,,FALSE,TRUE
+Regular,61300501,regular,"preparación de terrenos",613005,,FALSE,TRUE
+Regular,61301001,regular,"construcción de edificios y obras de ingeniería civil",613010,,FALSE,TRUE
+Regular,61301501,regular,"acondicionamiento de edificios",613015,,FALSE,TRUE
+Regular,61302001,regular,"terminación de edificaciones",613020,,FALSE,TRUE
+Regular,61302501,regular,"alquiler de equipo con operario",613025,,FALSE,TRUE
+Regular,61309501,regular,"actividades conexas",613095,,FALSE,TRUE
+Regular,61309901,regular,"ajustes por inflación",613099,,FALSE,TRUE
+Regular,61350201,regular,"venta de vehículos automotores",613502,,FALSE,TRUE
+Regular,61350401,regular,"mantenimiento, reparación y lavado de vehículos automotores",613504,,FALSE,TRUE
+Regular,61350601,regular,"venta de partes, piezas y accesorios de vehículos automotores",613506,,FALSE,TRUE
+Regular,61350801,regular,"venta de combustibles sólidos, líquidos, gaseosos",613508,,FALSE,TRUE
+Regular,61351001,regular,"venta de lubricantes, aditivos, llantas y lujos para automotores",613510,,FALSE,TRUE
+Regular,61351201,regular,"venta a cambio de retribución o por contrata",613512,,FALSE,TRUE
+Regular,61351401,regular,"venta de insumos, materias primas agropecuarias y flores",613514,,FALSE,TRUE
+Regular,61351601,regular,"venta de otros insumos y materias primas no agropecuarias",613516,,FALSE,TRUE
+Regular,61351801,regular,"venta de animales vivos y cueros",613518,,FALSE,TRUE
+Regular,61352001,regular,"venta de productos en almacenes no especializados",613520,,FALSE,TRUE
+Regular,61352201,regular,"venta de productos agropecuarios",613522,,FALSE,TRUE
+Regular,61352401,regular,"venta de productos textiles, de vestir, de cuero y calzado",613524,,FALSE,TRUE
+Regular,61352601,regular,"venta de papel y cartón",613526,,FALSE,TRUE
+Regular,61352801,regular,"venta de libros, revistas, elementos de papelería, útiles y textos",613528,,FALSE,TRUE
+Regular,61353001,regular,"venta de juegos, juguetes y artículos deportivos",613530,,FALSE,TRUE
+Regular,61353201,regular,"venta de instrumentos quirúrgicos y ortopédicos",613532,,FALSE,TRUE
+Regular,61353401,regular,"venta de artículos en relojerías y joyerías",613534,,FALSE,TRUE
+Regular,61353601,regular,"venta de electrodomésticos y muebles",613536,,FALSE,TRUE
+Regular,61353801,regular,"venta de productos de aseo, farmacéuticos, medicinales y artículos de",613538,,FALSE,TRUE
+Regular,61354001,regular,"venta de cubiertos, vajillas, cristalería, porcelanas, cerámicas y",613540,,FALSE,TRUE
+Regular,61354201,regular,"venta de materiales de construcción, fontanería y calefacción",613542,,FALSE,TRUE
+Regular,61354401,regular,"venta de pinturas y lacas",613544,,FALSE,TRUE
+Regular,61354601,regular,"venta de productos de vidrios y marquetería",613546,,FALSE,TRUE
+Regular,61354801,regular,"venta de herramientas y artículos de ferretería",613548,,FALSE,TRUE
+Regular,61355001,regular,"venta de químicos",613550,,FALSE,TRUE
+Regular,61355201,regular,"venta de productos intermedios, desperdicios y desechos",613552,,FALSE,TRUE
+Regular,61355401,regular,"venta de maquinaria, equipo de oficina y programas de computador",613554,,FALSE,TRUE
+Regular,61355601,regular,"venta de artículos en cacharrerías y misceláneas",613556,,FALSE,TRUE
+Regular,61355801,regular,"venta de instrumentos musicales",613558,,FALSE,TRUE
+Regular,61356001,regular,"venta de artículos en casas de empeño y prenderías",613560,,FALSE,TRUE
+Regular,61356201,regular,"venta de equipo fotográfico",613562,,FALSE,TRUE
+Regular,61356401,regular,"venta de equipo óptico y de precisión",613564,,FALSE,TRUE
+Regular,61356601,regular,"venta de empaques",613566,,FALSE,TRUE
+Regular,61356801,regular,"venta de equipo profesional y científico",613568,,FALSE,TRUE
+Regular,61357001,regular,"venta de loterías, rifas, chance, apuestas y similares",613570,,FALSE,TRUE
+Regular,61357201,regular,"reparación de efectos personales y electrodomésticos",613572,,FALSE,TRUE
+Regular,61359501,regular,"venta de otros productos",613595,,FALSE,TRUE
+Regular,61359901,regular,"ajustes por inflación",613599,,FALSE,TRUE
+Regular,61400501,regular,hotelería,614005,,FALSE,TRUE
+Regular,61401001,regular,"campamento y otros tipos de hospedaje",614010,,FALSE,TRUE
+Regular,61401501,regular,restaurantes,614015,,FALSE,TRUE
+Regular,61402001,regular,"bares y cantinas",614020,,FALSE,TRUE
+Regular,61409501,regular,"actividades conexas",614095,,FALSE,TRUE
+Regular,61409901,regular,"ajustes por inflación",614099,,FALSE,TRUE
+Regular,61450501,regular,"servicio de transporte por carretera",614505,,FALSE,TRUE
+Regular,61451001,regular,"servicio de transporte por vía férrea",614510,,FALSE,TRUE
+Regular,61451501,regular,"servicio de transporte por vía acuática",614515,,FALSE,TRUE
+Regular,61452001,regular,"servicio de transporte por vía aérea",614520,,FALSE,TRUE
+Regular,61452501,regular,"servicio de transporte por tuberías",614525,,FALSE,TRUE
+Regular,61453001,regular,"manipulación de carga",614530,,FALSE,TRUE
+Regular,61453501,regular,"almacenamiento y depósito",614535,,FALSE,TRUE
+Regular,61454001,regular,"servicios complementarios para el transporte",614540,,FALSE,TRUE
+Regular,61454501,regular,"agencias de viaje",614545,,FALSE,TRUE
+Regular,61455001,regular,"otras agencias de transporte",614550,,FALSE,TRUE
+Regular,61455501,regular,"servicio postal y de correo",614555,,FALSE,TRUE
+Regular,61456001,regular,"servicio telefónico",614560,,FALSE,TRUE
+Regular,61456501,regular,"servicio de telégrafo",614565,,FALSE,TRUE
+Regular,61457001,regular,"servicio de transmisión de datos",614570,,FALSE,TRUE
+Regular,61457501,regular,"servicio de radio y televisión por cable",614575,,FALSE,TRUE
+Regular,61458001,regular,"transmisión de sonido e imágenes por contrato",614580,,FALSE,TRUE
+Regular,61459501,regular,"actividades conexas",614595,,FALSE,TRUE
+Regular,61459901,regular,"ajustes por inflación",614599,,FALSE,TRUE
+Regular,61500501,regular,"de inversiones",615005,,FALSE,TRUE
+Regular,61501001,regular,"de servicio de bolsa",615010,,FALSE,TRUE
+Regular,61509901,regular,"ajustes por inflación",615099,,FALSE,TRUE
+Regular,61550501,regular,"arrendamientos de bienes inmuebles",615505,,FALSE,TRUE
+Regular,61551001,regular,"inmobiliarias por retribución o contrata",615510,,FALSE,TRUE
+Regular,61551501,regular,"alquiler equipo de transporte",615515,,FALSE,TRUE
+Regular,61552001,regular,"alquiler maquinaria y equipo",615520,,FALSE,TRUE
+Regular,61552501,regular,"alquiler de efectos personales y enseres domésticos",615525,,FALSE,TRUE
+Regular,61553001,regular,"consultoría en equipo y programas de informática",615530,,FALSE,TRUE
+Regular,61553501,regular,"procesamiento de datos",615535,,FALSE,TRUE
+Regular,61554001,regular,"mantenimiento y reparación de maquinaria de oficina",615540,,FALSE,TRUE
+Regular,61554501,regular,"investigaciones científicas y de desarrollo",615545,,FALSE,TRUE
+Regular,61555001,regular,"actividades empresariales de consultoría",615550,,FALSE,TRUE
+Regular,61555501,regular,publicidad,615555,,FALSE,TRUE
+Regular,61556001,regular,"dotación de personal",615560,,FALSE,TRUE
+Regular,61556501,regular,"investigación y seguridad",615565,,FALSE,TRUE
+Regular,61557001,regular,"limpieza de inmuebles",615570,,FALSE,TRUE
+Regular,61557501,regular,fotografía,615575,,FALSE,TRUE
+Regular,61558001,regular,"envase y empaque",615580,,FALSE,TRUE
+Regular,61558501,regular,fotocopiado,615585,,FALSE,TRUE
+Regular,61559001,regular,"mantenimiento y reparación de maquinaria y equipo",615590,,FALSE,TRUE
+Regular,61559501,regular,"actividades conexas",615595,,FALSE,TRUE
+Regular,61559901,regular,"ajustes por inflación",615599,,FALSE,TRUE
+Regular,61600501,regular,"actividades relacionadas con la educación",616005,,FALSE,TRUE
+Regular,61609501,regular,"actividades conexas",616095,,FALSE,TRUE
+Regular,61609901,regular,"ajustes por inflación",616099,,FALSE,TRUE
+Regular,61650501,regular,"servicio hospitalario",616505,,FALSE,TRUE
+Regular,61651001,regular,"servicio médico",616510,,FALSE,TRUE
+Regular,61651501,regular,"servicio odontológico",616515,,FALSE,TRUE
+Regular,61652001,regular,"servicio de laboratorio",616520,,FALSE,TRUE
+Regular,61652501,regular,"actividades veterinarias",616525,,FALSE,TRUE
+Regular,61653001,regular,"actividades de servicios sociales",616530,,FALSE,TRUE
+Regular,61659501,regular,"actividades conexas",616595,,FALSE,TRUE
+Regular,61659901,regular,"ajustes por inflación",616599,,FALSE,TRUE
+Regular,61700501,regular,"eliminación de desperdicios y aguas residuales",617005,,FALSE,TRUE
+Regular,61701001,regular,"actividades de asociación",617010,,FALSE,TRUE
+Regular,61701501,regular,"producción y distribución de filmes y videocintas",617015,,FALSE,TRUE
+Regular,61702001,regular,"exhibición de filmes y videocintas",617020,,FALSE,TRUE
+Regular,61702501,regular,"actividad de radio y televisión",617025,,FALSE,TRUE
+Regular,61703001,regular,"actividad teatral, musical y artística",617030,,FALSE,TRUE
+Regular,61703501,regular,"grabación y producción de discos",617035,,FALSE,TRUE
+Regular,61704001,regular,"entretenimiento y esparcimiento",617040,,FALSE,TRUE
+Regular,61704501,regular,"agencias de noticias",617045,,FALSE,TRUE
+Regular,61705001,regular,"lavanderías y similares",617050,,FALSE,TRUE
+Regular,61705501,regular,"peluquerías y similares",617055,,FALSE,TRUE
+Regular,61706001,regular,"servicios funerarios",617060,,FALSE,TRUE
+Regular,61706501,regular,"zonas francas",617065,,FALSE,TRUE
+Regular,61709501,regular,"actividades conexas",617095,,FALSE,TRUE
+Regular,61709901,regular,"ajustes por inflación",617099,,FALSE,TRUE
+Regular,62059901,regular,"ajustes por inflación",620599,,FALSE,TRUE
+Regular,62109901,regular,"ajustes por inflación",621099,,FALSE,TRUE
+Regular,62159901,regular,"ajustes por inflación",621599,,FALSE,TRUE
+Regular,62209901,regular,"ajustes por inflación",622099,,FALSE,TRUE
+Regular,62259901,regular,"ajustes por inflación",622599,,FALSE,TRUE
+Regular,71000001,regular,"materia prima",71,,FALSE,TRUE
+Regular,72000001,regular,"mano de obra directa",72,,FALSE,TRUE
+Regular,73000001,regular,"costos indirectos",73,,FALSE,TRUE
+Regular,74000001,regular,"contratos de servicios",74,,FALSE,TRUE
+Regular,81050501,regular,"valores mobiliarios",810505,,FALSE,TRUE
+Regular,81051001,regular,"bienes muebles",810510,,FALSE,TRUE
+Regular,81059901,regular,"ajustes por inflación",810599,,FALSE,TRUE
+Regular,81100501,regular,"valores mobiliarios",811005,,FALSE,TRUE
+Regular,81101001,regular,"bienes muebles",811010,,FALSE,TRUE
+Regular,81101501,regular,"bienes inmuebles",811015,,FALSE,TRUE
+Regular,81102001,regular,"contratos de ganado en participación",811020,,FALSE,TRUE
+Regular,81109901,regular,"ajustes por inflación",811099,,FALSE,TRUE
+Regular,81150501,regular,"en arrendamiento",811505,,FALSE,TRUE
+Regular,81151001,regular,"en préstamo",811510,,FALSE,TRUE
+Regular,81151501,regular,"en depósito",811515,,FALSE,TRUE
+Regular,81152001,regular,"en consignación",811520,,FALSE,TRUE
+Regular,81159901,regular,"ajustes por inflación",811599,,FALSE,TRUE
+Regular,81200501,regular,ejecutivos,812005,,FALSE,TRUE
+Regular,81201001,regular,"incumplimiento de contratos",812010,,FALSE,TRUE
+Regular,81250001,regular,"promesas de compraventa",8125,,FALSE,TRUE
+Regular,81950501,regular,"valores adquiridos por recibir",819505,,FALSE,TRUE
+Regular,81959501,regular,otras,819595,,FALSE,TRUE
+Regular,81959901,regular,"ajustes por inflación",819599,,FALSE,TRUE
+Regular,82000001,regular,"deudoras fiscales",82,,FALSE,TRUE
+Regular,83050501,regular,"bienes muebles",830505,,FALSE,TRUE
+Regular,83051001,regular,"bienes inmuebles",830510,,FALSE,TRUE
+Regular,83059901,regular,"ajustes por inflación",830599,,FALSE,TRUE
+Regular,83100501,regular,acciones,831005,,FALSE,TRUE
+Regular,83101001,regular,bonos,831010,,FALSE,TRUE
+Regular,83109501,regular,otros,831095,,FALSE,TRUE
+Regular,83150601,regular,"materiales proyectos petroleros",831506,,FALSE,TRUE
+Regular,83151601,regular,"construcciones y edificaciones",831516,,FALSE,TRUE
+Regular,83152001,regular,"maquinaria y equipo",831520,,FALSE,TRUE
+Regular,83152401,regular,"equipo de oficina",831524,,FALSE,TRUE
+Regular,83152801,regular,"equipo de computación y comunicación",831528,,FALSE,TRUE
+Regular,83153201,regular,"equipo médico-científico",831532,,FALSE,TRUE
+Regular,83153601,regular,"equipo de hoteles y restaurantes",831536,,FALSE,TRUE
+Regular,83154001,regular,"flota y equipo de transporte",831540,,FALSE,TRUE
+Regular,83154401,regular,"flota y equipo fluvial y/o marítimo",831544,,FALSE,TRUE
+Regular,83154801,regular,"flota y equipo aéreo",831548,,FALSE,TRUE
+Regular,83155201,regular,"flota y equipo férreo",831552,,FALSE,TRUE
+Regular,83155601,regular,"acueductos, plantas y redes",831556,,FALSE,TRUE
+Regular,83156001,regular,"armamento de vigilancia",831560,,FALSE,TRUE
+Regular,83156201,regular,"envases y empaques",831562,,FALSE,TRUE
+Regular,83156401,regular,"plantaciones agrícolas y forestales",831564,,FALSE,TRUE
+Regular,83156801,regular,"vías de comunicación",831568,,FALSE,TRUE
+Regular,83157201,regular,"minas y canteras",831572,,FALSE,TRUE
+Regular,83157601,regular,"pozos artesianos",831576,,FALSE,TRUE
+Regular,83158001,regular,yacimientos,831580,,FALSE,TRUE
+Regular,83158401,regular,semovientes,831584,,FALSE,TRUE
+Regular,83159901,regular,"ajustes por inflación",831599,,FALSE,TRUE
+Regular,83200501,regular,país,832005,,FALSE,TRUE
+Regular,83201001,regular,exterior,832010,,FALSE,TRUE
+Regular,83250501,regular,inversiones,832505,,FALSE,TRUE
+Regular,83251001,regular,deudores,832510,,FALSE,TRUE
+Regular,83259501,regular,"otros activos",832595,,FALSE,TRUE
+Regular,83300501,regular,bonos,833005,,FALSE,TRUE
+Regular,83309501,regular,otros,833095,,FALSE,TRUE
+Regular,83350001,regular,"capitalización por revalorización de patrimonio",8335,,FALSE,TRUE
+Regular,83950501,regular,"cheques posfechados",839505,,FALSE,TRUE
+Regular,83951001,regular,"certificados de depósito a término",839510,,FALSE,TRUE
+Regular,83951501,regular,"cheques devueltos",839515,,FALSE,TRUE
+Regular,83952001,regular,"bienes y valores en fideicomiso",839520,,FALSE,TRUE
+Regular,83952501,regular,"intereses sobre deudas vencidas",839525,,FALSE,TRUE
+Regular,83959501,regular,diversas,839595,,FALSE,TRUE
+Regular,83959901,regular,"ajustes por inflación",839599,,FALSE,TRUE
+Regular,83990501,regular,inversiones,839905,,FALSE,TRUE
+Regular,83991001,regular,inventarios,839910,,FALSE,TRUE
+Regular,83991501,regular,"propiedades, planta y equipo",839915,,FALSE,TRUE
+Regular,83992001,regular,intangibles,839920,,FALSE,TRUE
+Regular,83992501,regular,"cargos diferidos",839925,,FALSE,TRUE
+Regular,83999501,regular,"otros activos",839995,,FALSE,TRUE
+Regular,84000001,regular,"derechos contingentes por contra (cr)",84,,FALSE,TRUE
+Regular,85000001,regular,"deudoras fiscales por contra (cr)",85,,FALSE,TRUE
+Regular,86000001,regular,"deudoras de control por contra (cr)",86,,FALSE,TRUE
+Regular,91050501,regular,"valores mobiliarios",910505,,FALSE,TRUE
+Regular,91051001,regular,"bienes muebles",910510,,FALSE,TRUE
+Regular,91059901,regular,"ajustes por inflación",910599,,FALSE,TRUE
+Regular,91100501,regular,"valores mobiliarios",911005,,FALSE,TRUE
+Regular,91101001,regular,"bienes muebles",911010,,FALSE,TRUE
+Regular,91101501,regular,"bienes inmuebles",911015,,FALSE,TRUE
+Regular,91102001,regular,"contratos de ganado en participación",911020,,FALSE,TRUE
+Regular,91109901,regular,"ajustes por inflación",911099,,FALSE,TRUE
+Regular,91150501,regular,"en arrendamiento",911505,,FALSE,TRUE
+Regular,91151001,regular,"en préstamo",911510,,FALSE,TRUE
+Regular,91151501,regular,"en depósito",911515,,FALSE,TRUE
+Regular,91152001,regular,"en consignación",911520,,FALSE,TRUE
+Regular,91152501,regular,"en comodato",911525,,FALSE,TRUE
+Regular,91159901,regular,"ajustes por inflación",911599,,FALSE,TRUE
+Regular,91200501,regular,laborales,912005,,FALSE,TRUE
+Regular,91201001,regular,civiles,912010,,FALSE,TRUE
+Regular,91201501,regular,"administrativos o arbitrales",912015,,FALSE,TRUE
+Regular,91202001,regular,tributarios,912020,,FALSE,TRUE
+Regular,91250001,regular,"promesas de compraventa",9125,,FALSE,TRUE
+Regular,91300001,regular,"contratos de administración delegada",9130,,FALSE,TRUE
+Regular,91350001,regular,"cuentas en participación",9135,,FALSE,TRUE
+Regular,91950001,regular,"otras responsabilidades contingentes",9195,,FALSE,TRUE
+Regular,92000001,regular,"acreedoras fiscales",92,,FALSE,TRUE
+Regular,93050501,regular,"bienes muebles",930505,,FALSE,TRUE
+Regular,93051001,regular,"bienes inmuebles",930510,,FALSE,TRUE
+Regular,93950501,regular,"documentos por cobrar descontados",939505,,FALSE,TRUE
+Regular,93951001,regular,"convenios de pago",939510,,FALSE,TRUE
+Regular,93951501,regular,"contratos de construcciones e instalaciones por ejecutar",939515,,FALSE,TRUE
+Regular,93952501,regular,"adjudicaciones pendientes de legalizar",939525,,FALSE,TRUE
+Regular,93953001,regular,"reserva artículo 3º ley 4ª de 1980",939530,,FALSE,TRUE
+Regular,93953501,regular,"reserva costo reposición semovientes",939535,,FALSE,TRUE
+Regular,93959501,regular,diversas,939595,,FALSE,TRUE
+Regular,93959901,regular,"ajustes por inflación",939599,,FALSE,TRUE
+Regular,93990501,regular,"capital social",939905,,FALSE,TRUE
+Regular,93991001,regular,"superávit de capital",939910,,FALSE,TRUE
+Regular,93991501,regular,reservas,939915,,FALSE,TRUE
+Regular,93992501,regular,"dividendos o participaciones decretadas en acciones, cuotas o partes",939925,,FALSE,TRUE
+Regular,93993001,regular,"resultados de ejercicios anteriores",939930,,FALSE,TRUE
+Regular,94000001,regular,"responsabilidades contingentes por contra (db)",94,,FALSE,TRUE
+Regular,95000001,regular,"acreedoras fiscales por contra (db)",95,,FALSE,TRUE
+Regular,96000001,regular,"acreedoras de control por contra (db)",96,,FALSE,TRUE
