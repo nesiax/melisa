@@ -18,10 +18,23 @@ newtype Name = Name String deriving (Show)
 -- Must have a two decimal numbers
 newtype Value = Value Float deriving (Show)
 
-newtype Account = Account (Code, Name) deriving (Show)
-newtype Item    = Item (Account, Value) deriving (Show)
+data Account = Account { accCode :: Code
+                       , accName :: Name
+                       } deriving (Show)
+
+data Item    = Item { itemAccount :: Account
+                    , itemValue :: Value
+                    } deriving (Show)
 
 newtype Entry   = Entry [Item] deriving (Show)
+
+cn = Code "1.1.1"
+nn = Name "Land And Buildings"
+--an = Account (cn, nn)
+
+--getCode (Code, Name) = Code
+--fst' :: (Code,Name) -> Code
+--fst' (Code,_) = Code
 
 c0 = Code "1101"
 n0 = Name "Caja"
@@ -29,19 +42,17 @@ n0 = Name "Caja"
 c1 = Code "2202"
 n1 = Name "Bancos"
 
-a0 = Account (c0,n0)
-a1 = Account (c1,n1)
-
 v0 = Value 98.90
 v1 = Value 14.90
 
-i0 = Item (a0, v0)
-i1 = Item (a1, v1)
+a0 = Account c0 n0
+a1 = Account c1 n1
+
+i0 = Item a0 v0
+i1 = Item a1 v1
 
 e0 = Entry [i0, i1]
 
-fst' :: (a, b) -> a
-fst' (a,b) = a
 
 --getCode :: Account a -> Code
 --etCode a = Code "1101"
@@ -93,11 +104,12 @@ fst' (a,b) = a
 -- t = Node 'a' [Node 'c' [Account 4,Node 'e' [Account 5, Category '6']] , Node 'e'] :: Tree6 Int Char
 -- t = Node 'a' [Node 'c' [Account 4,Node 'e' [Account 5, Category '6']] , Category 'e' ] :: Tree6 Int Char
 
-data Chart a b = Leaf a | Node b [(Chart a b)] deriving Show
+data Chart a b = Nil | Leaf a | Node b [(Chart a b)] deriving Show
 --t = Node 'a' [Node 'c' [Leaf 4,Node 'e' [Leaf 5, Node '6' []]] , Node 'e' []] :: Chart Int Char
 
 --t= a0 :: Chart Account Char
 --data ChartX a b = Leaf a | Node b [(Chart a b)] deriving Show
 
-t = Node a0 [ Leaf a1 ] :: Chart Account Account
---t = Leaf a1 :: Chart Account Account
+t0 = Node a0 [ Leaf a1 ] :: Chart Account Account
+t1 = Leaf a1 :: Chart Account Account
+t2 = Nil :: Chart Char Int
