@@ -6,17 +6,24 @@ someFunc = putStrLn "someFunc"
 someFunc2 :: IO ()
 someFunc2 = putStrLn "someFunc sts "
 
--- a = "asrt"
-
 -- Code must complain with PUC
-newtype Code = Code String deriving (Show)
+newtype Code = Code {getCode :: String} deriving (Show)
 
 -- Name is a String, but will make no exceptions, we will match what we have on
 -- RDBMS
-newtype Name = Name String deriving (Show)
+newtype Name = Name {getName :: String} deriving (Show)
 
 -- Must have a two decimal numbers
-newtype Value = Value Float deriving (Show)
+newtype Value = Value {getValue :: Float} deriving (Show)
+
+-- get the value with two decimal points.
+getValue2 :: Value -> Float
+getValue2  (Value f) = truncate' f 2
+
+-- x : number you want rounded, n : number of decimal places you want...
+truncate' :: Float -> Int -> Float
+truncate' x n = (fromIntegral (floor (x * t))) / t
+    where t = 10^n
 
 data Account = Account { accCode :: Code
                        , accName :: Name
@@ -26,7 +33,7 @@ data Item    = Item { itemAccount :: Account
                     , itemValue :: Value
                     } deriving (Show)
 
-newtype Entry   = Entry [Item] deriving (Show)
+newtype Entry   = Entry { getEntry :: [Item] } deriving (Show)
 
 cn = Code "1.1.1"
 nn = Name "Land And Buildings"
@@ -42,8 +49,8 @@ n0 = Name "Caja"
 c1 = Code "2202"
 n1 = Name "Bancos"
 
-v0 = Value 98.90
-v1 = Value 14.90
+v0 = Value 98.938989
+v1 = Value 14.927878
 
 a0 = Account c0 n0
 a1 = Account c1 n1
@@ -53,6 +60,8 @@ i1 = Item a1 v1
 
 e0 = Entry [i0, i1]
 
+isValidEntry :: Entry -> Bool
+isValidEntry a = ( sum $ map getValue $ map itemValue $ getEntry a ) == 0
 
 --getCode :: Account a -> Code
 --etCode a = Code "1101"
